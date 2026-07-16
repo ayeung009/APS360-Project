@@ -1,0 +1,1062 @@
+image_path,expression,source,n_inputs
+Logic-Gates-Detection-12/train/136_png.rf.d78e848ac988fae6e49ee9dc922af42f.jpg,((A xor B) xor C),roboflow,3
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-44-34-PM-12-54-25-PM_png.rf.cd83a7a237ca25f85fbe8cd93ca76ab0.jpg,((A and (not B)) or (B and (not A))),roboflow,2
+Logic-Gates-Detection-12/train/35_png.rf.4ebb0245ae611430f3bb99c30517394d.jpg,((A or B) and (C or D) and (B or D)),roboflow,4
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-48-49-PM-12-54-25-PM_png.rf.e53229a1907c1941c0846069eeba4c59.jpg,(A or B),roboflow,2
+Logic-Gates-Detection-12/train/Screenshot-2023-12-04-at-21-15-48_png.rf.ab8f69acf7c5711cbf10be39626e5f49.jpg,(A xnor B),roboflow,2
+Logic-Gates-Detection-12/train/25_png.rf.c24e25a33937597cce11402796acdadb.jpg,(A or ((A and B) and C) or (A and B)),roboflow,3
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-45-43-PM-12-54-24-PM_png.rf.8eab76d40a6f4c93e2b606ad1236c0eb.jpg,(A nand B),roboflow,2
+Logic-Gates-Detection-12/train/WhatsApp-Image-2023-12-02-at-18-35-19-1-copy_jpeg.rf.8e615a0aadcdb94f0c29822fae792e15.jpg,((A xnor B) xnor (C xnor D)),roboflow,4
+Logic-Gates-Detection-12/train/84_png.rf.a223752bf6a7db90b62e1cb926198abd.jpg,((B and D) or (B and C) or (A and D)),roboflow,4
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-47-00-PM-12-54-24-PM_png.rf.f1bf478ea914bbdc155521e598fdd826.jpg,(A nand B),roboflow,2
+Logic-Gates-Detection-12/train/Screenshot-2023-12-03-at-09-06-48_png.rf.bd9e857cf0f104ad6916b37f81aea7a4.jpg,((A xor B) xor (C xor D)),roboflow,4
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-50-06-PM-12-54-25-PM_png.rf.9878fa1ccdacea407531746a1a8b87a7.jpg,(A xor B),roboflow,2
+Logic-Gates-Detection-12/train/36_png.rf.a0491b52b2dc6cc834ca13d017861019.jpg,((A xor B) xor C),roboflow,3
+Logic-Gates-Detection-12/train/Screenshot-2023-12-04-at-21-16-37_png.rf.c088284f3bf312810964386fbb9d7184.jpg,(A xor B),roboflow,2
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-48-21-PM-12-54-24-PM_png.rf.08523b48ebcf4c19778fc1e1b0756189.jpg,(not A),roboflow,1
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-44-21-PM-12-54-24-PM_png.rf.4985e915f9c80baa078ac1b8187f6bc0.jpg,(A nor B),roboflow,2
+Logic-Gates-Detection-12/train/75_png.rf.daced746c3d5232dadc253804b16b1f2.jpg,(A nor (B nor C)),roboflow,3
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-44-07-PM-12-54-25-PM_png.rf.7f91417d5299113c0d93f3989c2b2797.jpg,(A nand B),roboflow,2
+Logic-Gates-Detection-12/train/30_png.rf.9d403649ab36d1a3f409fff367a6a75b.jpg,(A nor (B nor C)),roboflow,3
+Logic-Gates-Detection-12/train/112_png.rf.349926eda20ecfa99d74e73d7a975e91.jpg,((A xnor B) xnor (C xnor D)),roboflow,4
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-47-28-PM-12-54-25-PM_png.rf.784f47b8c40c2d0331d013c92534b7a1.jpg,(A nand B),roboflow,2
+Logic-Gates-Detection-12/train/Screenshot-2023-12-03-at-09-06-39_png.rf.e34aea9b0d28aa0fc3bfaa081c4c39b7.jpg,((A xnor B) xnor (C xnor D)),roboflow,4
+Logic-Gates-Detection-12/train/Screenshot-2023-12-04-at-21-15-55_png.rf.b5b341f55264df228e0c43322534c159.jpg,(A xnor B),roboflow,2
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-45-09-PM-12-54-25-PM_png.rf.1eb6949b1e9934f79c1be032f2951a2c.jpg,(not A),roboflow,1
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-46-54-PM-12-54-24-PM_png.rf.9ae2d1736e4fdc8e65e369ea77ba8ef8.jpg,(A nor B),roboflow,2
+Logic-Gates-Detection-12/train/Screenshot-2023-12-03-at-09-55-12_png.rf.05c9abc5e94e2f74e56727fe893d9b34.jpg,((A xor B) xor (C xor D)),roboflow,4
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-50-40-PM-12-54-25-PM_png.rf.037ae78556271623ad74550fa2527c27.jpg,(A or B),roboflow,2
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-44-15-PM-12-54-24-PM_png.rf.148374bae13b8d4e58d0bf74f1d700f2.jpg,(A xor B),roboflow,2
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-45-23-PM-12-54-24-PM_png.rf.947b915bb77e69553ada8da7a4368109.jpg,(A nor B),roboflow,2
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-49-11-PM-12-54-25-PM_png.rf.7203498eeaed203db3b226ad9eca10bf.jpg,(A xnor B),roboflow,2
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-47-58-PM-12-54-25-PM_png.rf.d7c7a848647df39c94a324b6d17b3c9d.jpg,(A xor B),roboflow,2
+Logic-Gates-Detection-12/train/Screenshot-2023-12-04-at-21-15-06_png.rf.13ff9ffd3d9b9bfc981ce41b581efcba.jpg,((A xor B) xor (C xor D)),roboflow,4
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-45-33-PM-12-54-25-PM_png.rf.c1dab9dee14c521bff9440492cfe720a.jpg,(A or B),roboflow,2
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-47-37-PM-12-54-24-PM_png.rf.5eabb2b8874d21e282c31958cf427597.jpg,(A nor B),roboflow,2
+Logic-Gates-Detection-12/train/125_png.rf.c68fc138b938c640870d60c9592aa1e8.jpg,((A nor B) nor C),roboflow,3
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-50-16-PM-12-54-25-PM_png.rf.6b13935381b67c3e0dcca03de11664ca.jpg,(A nor B),roboflow,2
+Logic-Gates-Detection-12/train/Screenshot-2023-12-04-at-21-16-30_png.rf.240747d4cbf77fed81f93d094c9f72f7.jpg,(A xor B),roboflow,2
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-48-53-PM-12-54-24-PM_png.rf.413d5607a2cff11a7e995650bfe067e3.jpg,(not A),roboflow,1
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-48-56-PM-12-54-25-PM_png.rf.6876981bb6eca66c59acf83b12e49f64.jpg,(A and B),roboflow,2
+Logic-Gates-Detection-12/train/WhatsApp-Image-2023-12-02-at-18-48-32_jpeg.rf.5daef3ec7b7d5b9168c7f18caa5a4c4d.jpg,((A xor B) xor (C xor D)),roboflow,4
+Logic-Gates-Detection-12/train/Screenshot-2023-12-04-at-21-16-11_png.rf.c8c1b3f7ce622d10a77f64077ef4edb2.jpg,((A xor B) xor (C xor D)),roboflow,4
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-45-04-PM-12-54-25-PM_png.rf.2bda917b8d13851327cf04f0b5604820.jpg,(A and B),roboflow,2
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-47-21-PM-12-54-24-PM_png.rf.7314d8074dd776049fdc4c95342edc39.jpg,(A and B),roboflow,2
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-50-29-PM-12-54-25-PM_png.rf.e873f2d2b1dbc83bdf5005d102a031c2.jpg,(not A),roboflow,1
+Logic-Gates-Detection-12/train/Screenshot-2023-12-03-at-09-04-05_png.rf.407753a6c9efa52a51b31f959717d235.jpg,((A xor B) xor (C xor D)),roboflow,4
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-43-32-PM-12-54-24-PM_png.rf.a4ca6929d672406ced2c07af1ed63f64.jpg,(A or B),roboflow,2
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-44-38-PM-12-54-25-PM_png.rf.a7ab0ba3c264a06fac809db8fe583335.jpg,(A or B),roboflow,2
+Logic-Gates-Detection-12/train/Screenshot-2023-12-03-at-09-36-57_png.rf.ef4d64e19c97c912b050858768abdc01.jpg,(A xnor B),roboflow,2
+Logic-Gates-Detection-12/train/Screenshot-2023-12-03-at-09-36-39_png.rf.c1df0ff43ee5922595753cddd42987cd.jpg,((A xor B) xor (C xor D)),roboflow,4
+Logic-Gates-Detection-12/train/Screenshot-2023-12-03-at-09-54-29_png.rf.5116326b565509411a73e239000782e2.jpg,(A xor B),roboflow,2
+Logic-Gates-Detection-12/train/WhatsApp-Image-2023-12-01-at-20-52-08_jpeg.rf.6221837ee637dfdd7dbd8f4ff8c21fec.jpg,((A xnor B) xnor (C xnor D)),roboflow,4
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-49-17-PM-12-54-25-PM_png.rf.c3cc5ac286963bc116450f965ac23567.jpg,(A or B),roboflow,2
+Logic-Gates-Detection-12/train/Screenshot-2023-12-04-at-21-16-42_png.rf.d48d68f83ce54ff3f4c42c434470ccea.jpg,(A xnor B),roboflow,2
+Logic-Gates-Detection-12/train/Screenshot-2023-12-03-at-09-06-23_png.rf.759e8c9a15bb04192ebcad79f993cdd0.jpg,(A xor B),roboflow,2
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-46-03-PM-12-54-24-PM_png.rf.d9aae50b83f25e64b269fa9c642b47d6.jpg,(A or B),roboflow,2
+Logic-Gates-Detection-12/train/77_png.rf.85ec47a41d281f365b55cfadecf5f54d.jpg,((A xor B) xor C),roboflow,3
+Logic-Gates-Detection-12/train/Screenshot-2023-12-04-at-21-15-32_png.rf.0afbee6cb87ed7f5098f1f886c4d3fcc.jpg,((A xnor B) nor (C xnor D)),roboflow,4
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-43-47-PM-12-54-24-PM_png.rf.96e68a4ef3e39e5be523834eb6401c80.jpg,(A nor B),roboflow,2
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-48-45-PM-12-54-24-PM_png.rf.9774517ba18f09126a267de150667070.jpg,(A xnor B),roboflow,2
+Logic-Gates-Detection-12/train/Screenshot-2023-12-04-at-21-16-55_png.rf.85a7541aa668f0c8bfc869815b710b04.jpg,((A xor B) xor (C xor D)),roboflow,4
+Logic-Gates-Detection-12/train/Screenshot-2023-12-03-at-09-36-32_png.rf.9f4884738b8c8aac2149aa5b7d50768c.jpg,((A xnor B) xnor (C xnor D)),roboflow,4
+logic_dataset/images/00000.png,(not A),self_generated,1
+logic_dataset/images/00001.png,(B nand (A and (not E))),self_generated,3
+logic_dataset/images/00002.png,((D and (not (C nand (not (E xor B))))) nand A),self_generated,5
+logic_dataset/images/00003.png,((B xnor (not E)) xnor C),self_generated,3
+logic_dataset/images/00004.png,(((not E) xnor A) or B),self_generated,3
+logic_dataset/images/00005.png,((not C) nor E),self_generated,2
+logic_dataset/images/00006.png,(B xor D),self_generated,2
+logic_dataset/images/00007.png,(not ((not ((C nor (not A)) xor (not (E xnor (not D))))) and B)),self_generated,5
+logic_dataset/images/00008.png,((not A) nor ((E xnor B) and D)),self_generated,4
+logic_dataset/images/00009.png,(not (A nor E)),self_generated,2
+logic_dataset/images/00010.png,(not ((B and D) and ((not E) nand (not (A and C))))),self_generated,5
+logic_dataset/images/00011.png,((not ((D xor A) nor B)) nor ((not C) and (not E))),self_generated,5
+logic_dataset/images/00012.png,(((not C) xnor (D xor B)) and (E nor A)),self_generated,5
+logic_dataset/images/00013.png,(((not D) nor (B xnor ((not A) xnor C))) xnor (not E)),self_generated,5
+logic_dataset/images/00014.png,((not ((not B) or E)) and (not (((not C) xnor D) xor (not A)))),self_generated,5
+logic_dataset/images/00015.png,(((not A) nand C) xnor ((not E) xor (not (D and B)))),self_generated,5
+logic_dataset/images/00016.png,((B xnor (not (E nand D))) xor (A and (not C))),self_generated,5
+logic_dataset/images/00017.png,((E nor D) nor (not C)),self_generated,3
+logic_dataset/images/00018.png,(not (E xor (B xnor D))),self_generated,3
+logic_dataset/images/00019.png,((not B) nor C),self_generated,2
+logic_dataset/images/00020.png,(not D),self_generated,1
+logic_dataset/images/00021.png,((E and D) xnor (not (C nand B))),self_generated,4
+logic_dataset/images/00022.png,(C nand ((not ((B xnor D) xor (not E))) xnor (not A))),self_generated,5
+logic_dataset/images/00023.png,((not D) nand E),self_generated,2
+logic_dataset/images/00024.png,((E nand B) nand (not (D nand A))),self_generated,4
+logic_dataset/images/00025.png,((not D) xor (A nand C)),self_generated,3
+logic_dataset/images/00026.png,(not B),self_generated,1
+logic_dataset/images/00027.png,(B or A),self_generated,2
+logic_dataset/images/00028.png,(((not B) xor (not E)) nor (not C)),self_generated,3
+logic_dataset/images/00029.png,(C and A),self_generated,2
+logic_dataset/images/00030.png,((D xnor A) nor B),self_generated,3
+logic_dataset/images/00031.png,(not (A xor C)),self_generated,2
+logic_dataset/images/00032.png,((not B) nor (A xor D)),self_generated,3
+logic_dataset/images/00033.png,(C xnor (A xor (E nor D))),self_generated,4
+logic_dataset/images/00034.png,(not (D xor C)),self_generated,2
+logic_dataset/images/00035.png,((C or B) nor (not (((not D) nand (not A)) xor E))),self_generated,5
+logic_dataset/images/00036.png,(D xor E),self_generated,2
+logic_dataset/images/00037.png,(not E),self_generated,1
+logic_dataset/images/00038.png,(A nand (not C)),self_generated,2
+logic_dataset/images/00039.png,((((not A) xor (not C)) xor (not (D xnor B))) nand E),self_generated,5
+logic_dataset/images/00040.png,((not E) and (A xnor ((D nor (not C)) xor B))),self_generated,5
+logic_dataset/images/00041.png,(C and ((E and B) xnor A)),self_generated,4
+logic_dataset/images/00042.png,((B xor ((not E) xnor C)) nor D),self_generated,4
+logic_dataset/images/00043.png,(((not B) xnor (C or E)) xnor D),self_generated,4
+logic_dataset/images/00044.png,(B nand (D nor (A xnor C))),self_generated,4
+logic_dataset/images/00045.png,(C or (not ((not E) and ((not D) xnor A)))),self_generated,4
+logic_dataset/images/00046.png,((((not (B xnor D)) nand (not C)) xor E) and A),self_generated,5
+logic_dataset/images/00047.png,((not ((C xnor E) xnor A)) and (B or D)),self_generated,5
+logic_dataset/images/00048.png,(not ((D nand B) and A)),self_generated,3
+logic_dataset/images/00049.png,(D xor (not C)),self_generated,2
+logic_dataset/images/00050.png,(E xnor (D nor C)),self_generated,3
+logic_dataset/images/00051.png,(((C nand (not A)) nand E) xnor B),self_generated,4
+logic_dataset/images/00052.png,((not (D nand A)) nor ((not B) or E)),self_generated,4
+logic_dataset/images/00053.png,(not (C or B)),self_generated,2
+logic_dataset/images/00054.png,(not C),self_generated,1
+logic_dataset/images/00055.png,(not ((not C) nor E)),self_generated,2
+logic_dataset/images/00056.png,((not (A and D)) xnor (C nand (not B))),self_generated,4
+logic_dataset/images/00057.png,(B xor (not (D nor C))),self_generated,3
+logic_dataset/images/00058.png,(((not A) or (C and D)) nand B),self_generated,4
+logic_dataset/images/00059.png,(not ((not (E or (not (A xor ((not D) or C))))) and B)),self_generated,5
+logic_dataset/images/00060.png,(not (((not (D nor (not B))) nand (not A)) nor (C nor E))),self_generated,5
+logic_dataset/images/00061.png,(C xnor (not B)),self_generated,2
+logic_dataset/images/00062.png,(D and (not B)),self_generated,2
+logic_dataset/images/00063.png,(B xnor ((not (E and D)) and (C and A))),self_generated,5
+logic_dataset/images/00064.png,(not ((not B) xnor (not A))),self_generated,2
+logic_dataset/images/00065.png,((C and E) and (B xor D)),self_generated,4
+logic_dataset/images/00066.png,((E nand A) and (D xnor (not (B xor C)))),self_generated,5
+logic_dataset/images/00067.png,((not ((D xnor E) xor A)) nand (C xor B)),self_generated,5
+logic_dataset/images/00068.png,(not (B nor A)),self_generated,2
+logic_dataset/images/00069.png,(A nand ((not (B nor C)) nand (not E))),self_generated,4
+logic_dataset/images/00070.png,((not D) nand (not (A nor E))),self_generated,3
+logic_dataset/images/00071.png,(D nand A),self_generated,2
+logic_dataset/images/00072.png,(D xnor (not A)),self_generated,2
+logic_dataset/images/00073.png,(not (A nor B)),self_generated,2
+logic_dataset/images/00074.png,((not ((not B) or (not C))) nor E),self_generated,3
+logic_dataset/images/00075.png,(C xnor ((not E) xor (D nor ((not B) nor A)))),self_generated,5
+logic_dataset/images/00076.png,(not ((not A) nand (E xnor B))),self_generated,3
+logic_dataset/images/00077.png,(A nor B),self_generated,2
+logic_dataset/images/00078.png,((C nand A) nand E),self_generated,3
+logic_dataset/images/00079.png,((not (B and (((not E) xor C) and D))) or A),self_generated,5
+logic_dataset/images/00080.png,((not D) xor E),self_generated,2
+logic_dataset/images/00081.png,((not ((not D) xnor (not ((not B) nor (C or A))))) nand E),self_generated,5
+logic_dataset/images/00082.png,(((not A) or (not C)) nand (D xnor B)),self_generated,4
+logic_dataset/images/00083.png,((A or (not (B xnor C))) xor (D or E)),self_generated,5
+logic_dataset/images/00084.png,((A nor (not B)) and (not C)),self_generated,3
+logic_dataset/images/00085.png,((E xor B) or (not (D xor (C or A)))),self_generated,5
+logic_dataset/images/00086.png,((A or D) nor B),self_generated,3
+logic_dataset/images/00087.png,(not ((D xor (not E)) nand A)),self_generated,3
+logic_dataset/images/00088.png,((not (B nand D)) xor (not C)),self_generated,3
+logic_dataset/images/00089.png,(((not E) xor (not A)) xor C),self_generated,3
+logic_dataset/images/00090.png,(not ((C nand D) xnor B)),self_generated,3
+logic_dataset/images/00091.png,((not (D xnor A)) or (C nor (not E))),self_generated,4
+logic_dataset/images/00092.png,(E nand D),self_generated,2
+logic_dataset/images/00093.png,((D or (not C)) xor B),self_generated,3
+logic_dataset/images/00094.png,(C nor ((not (B xor D)) xor E)),self_generated,4
+logic_dataset/images/00095.png,(B nand (not A)),self_generated,2
+logic_dataset/images/00096.png,(((not C) xor E) and (A xnor (not B))),self_generated,4
+logic_dataset/images/00097.png,((B xor (C nor E)) xor (not D)),self_generated,4
+logic_dataset/images/00098.png,(A nor (not (((not (D or B)) xor E) or C))),self_generated,5
+logic_dataset/images/00099.png,((C nor A) nor B),self_generated,3
+logic_dataset/images/00100.png,(((not (D and C)) and E) xnor A),self_generated,4
+logic_dataset/images/00101.png,((not B) or (C and A)),self_generated,3
+logic_dataset/images/00102.png,((B nand E) xor ((not C) nor D)),self_generated,4
+logic_dataset/images/00103.png,((not A) and (not E)),self_generated,2
+logic_dataset/images/00104.png,(E xor (not (A nor (B xnor (not C))))),self_generated,4
+logic_dataset/images/00105.png,(((B or D) nor C) xor E),self_generated,4
+logic_dataset/images/00106.png,(C and ((not A) xor ((not D) xnor E))),self_generated,4
+logic_dataset/images/00107.png,(((not A) nand (D xor E)) nor B),self_generated,4
+logic_dataset/images/00108.png,((not C) nor (not A)),self_generated,2
+logic_dataset/images/00109.png,(not (D or (((not C) or B) and E))),self_generated,4
+logic_dataset/images/00110.png,(B nor A),self_generated,2
+logic_dataset/images/00111.png,((E or A) xor (B nand C)),self_generated,4
+logic_dataset/images/00112.png,((B nand E) xnor ((not A) xnor C)),self_generated,4
+logic_dataset/images/00113.png,(((not B) nand (not (D xnor A))) xnor (not C)),self_generated,4
+logic_dataset/images/00114.png,((not (C xnor (B nand E))) xnor (D or A)),self_generated,5
+logic_dataset/images/00115.png,(((not ((not E) nand (not A))) nor (not C)) and D),self_generated,4
+logic_dataset/images/00116.png,(((B xnor (not E)) and (not A)) xor ((not C) nand D)),self_generated,5
+logic_dataset/images/00117.png,((B xnor C) nand ((not (A xor E)) nor D)),self_generated,5
+logic_dataset/images/00118.png,(C nor (not B)),self_generated,2
+logic_dataset/images/00119.png,((not A) nor (not ((D xnor E) nand C))),self_generated,4
+logic_dataset/images/00120.png,(((D and E) nand (C or A)) xor (not B)),self_generated,5
+logic_dataset/images/00121.png,(B nand (not E)),self_generated,2
+logic_dataset/images/00122.png,(E xnor D),self_generated,2
+logic_dataset/images/00123.png,((E nand C) xor A),self_generated,3
+logic_dataset/images/00124.png,((((not C) xor (not B)) nand (not E)) or D),self_generated,4
+logic_dataset/images/00125.png,((not A) xor (not ((D xnor E) and (not B)))),self_generated,4
+logic_dataset/images/00126.png,(D or (not ((not (A nand (not E))) nand C))),self_generated,4
+logic_dataset/images/00127.png,((C and (D xnor (not A))) or (B or E)),self_generated,5
+logic_dataset/images/00128.png,(C and (not (B nor (D nand E)))),self_generated,4
+logic_dataset/images/00129.png,(E nand (not ((not (D nand A)) nand B))),self_generated,4
+logic_dataset/images/00130.png,(C xnor B),self_generated,2
+logic_dataset/images/00131.png,(not ((not (D nand ((not C) xnor (not B)))) and (not A))),self_generated,4
+logic_dataset/images/00132.png,(not (C or (B xor (not D)))),self_generated,3
+logic_dataset/images/00133.png,(A or (not ((C xor D) xor B))),self_generated,4
+logic_dataset/images/00134.png,((C or A) nor (not (D or (not E)))),self_generated,4
+logic_dataset/images/00135.png,((not (E or C)) and (not (D or A))),self_generated,4
+logic_dataset/images/00136.png,(E nor A),self_generated,2
+logic_dataset/images/00137.png,(C and (A nand (not B))),self_generated,3
+logic_dataset/images/00138.png,((not C) and ((not (A and (not B))) xnor ((not D) or E))),self_generated,5
+logic_dataset/images/00139.png,(((not (A or E)) and D) xnor (not ((not B) xor C))),self_generated,5
+logic_dataset/images/00140.png,(not (A xnor (not (B xor (not C))))),self_generated,3
+logic_dataset/images/00141.png,((not D) xor A),self_generated,2
+logic_dataset/images/00142.png,((C or D) xnor (not ((not B) nand (not E)))),self_generated,4
+logic_dataset/images/00143.png,((not (A or E)) and (not ((not B) xor (C nand (not D))))),self_generated,5
+logic_dataset/images/00144.png,((not ((D nand B) or (not A))) or E),self_generated,4
+logic_dataset/images/00145.png,(((A or C) xor D) nand E),self_generated,4
+logic_dataset/images/00146.png,((D nand E) nor ((not C) xnor ((not B) nor (not A)))),self_generated,5
+logic_dataset/images/00147.png,((not (((not A) and E) or C)) or B),self_generated,4
+logic_dataset/images/00148.png,((not ((not (D nand E)) xnor (C xnor B))) nor A),self_generated,5
+logic_dataset/images/00149.png,((not ((D and C) nand (B or E))) nor A),self_generated,5
+logic_dataset/images/00150.png,(not ((not D) and B)),self_generated,2
+logic_dataset/images/00151.png,(B nand D),self_generated,2
+logic_dataset/images/00152.png,((not ((C xnor D) nand (not B))) and (not A)),self_generated,4
+logic_dataset/images/00153.png,((not D) nor (B xor (not ((C xnor A) or E)))),self_generated,5
+logic_dataset/images/00154.png,(not ((C or E) and ((not A) xnor (not (B nor D))))),self_generated,5
+logic_dataset/images/00155.png,((not E) xor ((B nand A) or (C and D))),self_generated,5
+logic_dataset/images/00156.png,(not ((not (B or A)) xnor C)),self_generated,3
+logic_dataset/images/00157.png,(((not E) and C) xor (D nor B)),self_generated,4
+logic_dataset/images/00158.png,((not C) nor (not ((not D) xnor (E nand A)))),self_generated,4
+logic_dataset/images/00159.png,(not (B xnor E)),self_generated,2
+logic_dataset/images/00160.png,(B xor A),self_generated,2
+logic_dataset/images/00161.png,(((C xor B) and (not A)) xnor D),self_generated,4
+logic_dataset/images/00162.png,((not (B xnor C)) nand E),self_generated,3
+logic_dataset/images/00163.png,(((C or (E xnor B)) xor D) xnor A),self_generated,5
+logic_dataset/images/00164.png,(not (B and (((A nor D) and C) nand (not E)))),self_generated,5
+logic_dataset/images/00165.png,((not ((not (B xor (not C))) xnor (not E))) nor D),self_generated,4
+logic_dataset/images/00166.png,((not E) or (not (D xor C))),self_generated,3
+logic_dataset/images/00167.png,(C xnor (not (((not A) nand (not D)) xor (E xnor (not B))))),self_generated,5
+logic_dataset/images/00168.png,(not ((not (B or E)) or A)),self_generated,3
+logic_dataset/images/00169.png,((D or E) xor (not (B and ((not C) and A)))),self_generated,5
+logic_dataset/images/00170.png,(((not (B or (not D))) or C) xnor E),self_generated,4
+logic_dataset/images/00171.png,(not ((not D) xor E)),self_generated,2
+logic_dataset/images/00172.png,(((not D) and (not (A or (not (B nor C))))) nand (not E)),self_generated,5
+logic_dataset/images/00173.png,(((B and D) xnor A) nand C),self_generated,4
+logic_dataset/images/00174.png,((not (((not E) nand (D xor A)) or C)) xnor B),self_generated,5
+logic_dataset/images/00175.png,((A nand (not C)) xnor (B nand E)),self_generated,4
+logic_dataset/images/00176.png,((not (B nor C)) xor D),self_generated,3
+logic_dataset/images/00177.png,(B xnor C),self_generated,2
+logic_dataset/images/00178.png,(((A xor (not D)) nor E) xnor (not (C nor B))),self_generated,5
+logic_dataset/images/00179.png,(A and ((C nand D) nor E)),self_generated,4
+logic_dataset/images/00180.png,(E or A),self_generated,2
+logic_dataset/images/00181.png,((C xnor A) and B),self_generated,3
+logic_dataset/images/00182.png,(E nor (A and B)),self_generated,3
+logic_dataset/images/00183.png,((not A) or ((E and (not (D xor C))) and (not B))),self_generated,5
+logic_dataset/images/00184.png,(not ((A xor (not D)) xnor (B and (not C)))),self_generated,4
+logic_dataset/images/00185.png,((not A) xnor (not (B nand E))),self_generated,3
+logic_dataset/images/00186.png,(not ((not (B nor D)) xnor (not (C and (E xor A))))),self_generated,5
+logic_dataset/images/00187.png,((D xnor C) nand (A nand (E xnor B))),self_generated,5
+logic_dataset/images/00188.png,(not (E xnor (C or D))),self_generated,3
+logic_dataset/images/00189.png,(A nand (not (((not E) nor ((not B) and C)) nor (not D)))),self_generated,5
+logic_dataset/images/00190.png,((not (A and C)) xor B),self_generated,3
+logic_dataset/images/00191.png,(not ((B or E) nor D)),self_generated,3
+logic_dataset/images/00192.png,((not B) xor (not D)),self_generated,2
+logic_dataset/images/00193.png,(C and (((not E) nor (not A)) or (not B))),self_generated,4
+logic_dataset/images/00194.png,((not D) nand ((not B) or A)),self_generated,3
+logic_dataset/images/00195.png,(A and ((not ((not C) nor B)) nor D)),self_generated,4
+logic_dataset/images/00196.png,(E xor (not ((D and C) xnor (not B)))),self_generated,4
+logic_dataset/images/00197.png,(((B nand E) xor D) xnor C),self_generated,4
+logic_dataset/images/00198.png,((not B) and A),self_generated,2
+logic_dataset/images/00199.png,((not E) and (not D)),self_generated,2
+logic_dataset/images/00200.png,((not ((not C) nor E)) nand (A xor D)),self_generated,4
+logic_dataset/images/00201.png,(C nor (not (D nand (A nor B)))),self_generated,4
+logic_dataset/images/00202.png,(((not (B nand A)) and (D xnor E)) xnor C),self_generated,5
+logic_dataset/images/00203.png,((not D) or C),self_generated,2
+logic_dataset/images/00204.png,((not B) nor (not E)),self_generated,2
+logic_dataset/images/00205.png,(B and (((not (C or E)) xor (not A)) nor (not D))),self_generated,5
+logic_dataset/images/00206.png,((not ((E or (not D)) or C)) or (A xnor (not B))),self_generated,5
+logic_dataset/images/00207.png,((not (E xor C)) xnor (not ((not D) or (not B)))),self_generated,4
+logic_dataset/images/00208.png,(B xnor E),self_generated,2
+logic_dataset/images/00209.png,(B and (not (A and (not (E nand ((not C) xor (not D))))))),self_generated,5
+logic_dataset/images/00210.png,((not B) xor ((not A) nand (D xnor (not E)))),self_generated,4
+logic_dataset/images/00211.png,(not (((C nand D) or E) xor B)),self_generated,4
+logic_dataset/images/00212.png,(((not B) xnor (not ((A nor C) xnor (not D)))) xor E),self_generated,5
+logic_dataset/images/00213.png,(not (((not D) nand (not C)) xor B)),self_generated,3
+logic_dataset/images/00214.png,((not A) xor C),self_generated,2
+logic_dataset/images/00215.png,(E nor D),self_generated,2
+logic_dataset/images/00216.png,(E nor (not D)),self_generated,2
+logic_dataset/images/00217.png,(not (D or (C nand (not A)))),self_generated,3
+logic_dataset/images/00218.png,(not ((E or A) or (not (D xnor B)))),self_generated,4
+logic_dataset/images/00219.png,(C xor (B nor (D or (not A)))),self_generated,4
+logic_dataset/images/00220.png,(((not D) and E) xnor (C nand (not (B xor (not A))))),self_generated,5
+logic_dataset/images/00221.png,(A nand E),self_generated,2
+logic_dataset/images/00222.png,((not ((D xnor (E and C)) xnor A)) and B),self_generated,5
+logic_dataset/images/00223.png,(not ((D nor (not C)) nand E)),self_generated,3
+logic_dataset/images/00224.png,(not (((not B) xor (not ((not E) or A))) nand (C nand D))),self_generated,5
+logic_dataset/images/00225.png,(E and (not ((not D) xor A))),self_generated,3
+logic_dataset/images/00226.png,(((not D) and A) xnor (not (E xnor B))),self_generated,4
+logic_dataset/images/00227.png,(((not E) nand A) nor (not ((B xor C) xnor (not D)))),self_generated,5
+logic_dataset/images/00228.png,(((not C) nor (not A)) xnor D),self_generated,3
+logic_dataset/images/00229.png,(not (((not A) xnor D) xnor ((E nand (not B)) nor C))),self_generated,5
+logic_dataset/images/00230.png,(C xnor (not E)),self_generated,2
+logic_dataset/images/00231.png,((not (C or B)) xnor A),self_generated,3
+logic_dataset/images/00232.png,(not (D nor B)),self_generated,2
+logic_dataset/images/00233.png,(E or B),self_generated,2
+logic_dataset/images/00234.png,((not B) or ((not (C or (not D))) nor (E xnor A))),self_generated,5
+logic_dataset/images/00235.png,(D xnor (B or (not (C or (not (A xor E)))))),self_generated,5
+logic_dataset/images/00236.png,((not (E nor (not ((C and D) xor B)))) or A),self_generated,5
+logic_dataset/images/00237.png,((not ((not ((not A) xor C)) nor (D xnor E))) xor (not B)),self_generated,5
+logic_dataset/images/00238.png,(E nand B),self_generated,2
+logic_dataset/images/00239.png,((not B) nand A),self_generated,2
+logic_dataset/images/00240.png,(E xor ((not (B nor (not D))) xnor (not C))),self_generated,4
+logic_dataset/images/00241.png,(B xor (not C)),self_generated,2
+logic_dataset/images/00242.png,(D xnor ((E nand C) xnor (not A))),self_generated,4
+logic_dataset/images/00243.png,((B xor (not E)) xor (A nor ((not C) and D))),self_generated,5
+logic_dataset/images/00244.png,(A nand (E and C)),self_generated,3
+logic_dataset/images/00245.png,(C nand (not ((not (D nor E)) xor B))),self_generated,4
+logic_dataset/images/00246.png,(D and E),self_generated,2
+logic_dataset/images/00247.png,((not C) and D),self_generated,2
+logic_dataset/images/00248.png,((C nor (not (B nor (not D)))) xnor (not (E xnor A))),self_generated,5
+logic_dataset/images/00249.png,(not ((C xor B) nor A)),self_generated,3
+logic_dataset/images/00250.png,(D xnor (not ((A nand (not B)) or (C and (not E))))),self_generated,5
+logic_dataset/images/00251.png,(not ((D and (not ((not C) xor A))) nor B)),self_generated,4
+logic_dataset/images/00252.png,((not (((E xor D) xnor A) nand C)) or B),self_generated,5
+logic_dataset/images/00253.png,((B xnor A) nor (E nor C)),self_generated,4
+logic_dataset/images/00254.png,(not (C xor (A and D))),self_generated,3
+logic_dataset/images/00255.png,((not A) xor (D nand B)),self_generated,3
+logic_dataset/images/00256.png,(B nand (not C)),self_generated,2
+logic_dataset/images/00257.png,(B nand A),self_generated,2
+logic_dataset/images/00258.png,(C xnor (not ((not ((not E) nand A)) nand (not D)))),self_generated,4
+logic_dataset/images/00259.png,((not (A xnor C)) and D),self_generated,3
+logic_dataset/images/00260.png,(E xnor (A xor (not (C and ((not B) or D))))),self_generated,5
+logic_dataset/images/00261.png,(not (((not A) xnor (C or B)) and D)),self_generated,4
+logic_dataset/images/00262.png,(D xnor (C xnor ((not E) and B))),self_generated,4
+logic_dataset/images/00263.png,(not (E and (A or C))),self_generated,3
+logic_dataset/images/00264.png,((not B) nand ((not C) or E)),self_generated,3
+logic_dataset/images/00265.png,(not (((D xnor E) or A) nand (not ((not C) and (not B))))),self_generated,5
+logic_dataset/images/00266.png,(((not (B nand (not D))) nand C) xnor (not (E xnor A))),self_generated,5
+logic_dataset/images/00267.png,(((not B) nand (not C)) xor (A nand D)),self_generated,4
+logic_dataset/images/00268.png,(((not B) xor C) nand (not ((not A) xnor (not E)))),self_generated,4
+logic_dataset/images/00269.png,((A and C) xnor (not (B or ((not D) xor E)))),self_generated,5
+logic_dataset/images/00270.png,(not (D nor (A or (not B)))),self_generated,3
+logic_dataset/images/00271.png,((A nand B) or (not ((not D) nor E))),self_generated,4
+logic_dataset/images/00272.png,((B and ((E nor D) or C)) nor A),self_generated,5
+logic_dataset/images/00273.png,((not D) nand (not (((not E) xnor A) xor C))),self_generated,4
+logic_dataset/images/00274.png,((not A) nand (not (E or (not (C or B))))),self_generated,4
+logic_dataset/images/00275.png,(D xnor ((not B) nand C)),self_generated,3
+logic_dataset/images/00276.png,(B nand C),self_generated,2
+logic_dataset/images/00277.png,((B and (A nand (not D))) xor (not (C or E))),self_generated,5
+logic_dataset/images/00278.png,(not (C xnor ((A and B) xor (not E)))),self_generated,4
+logic_dataset/images/00279.png,((not E) nand C),self_generated,2
+logic_dataset/images/00280.png,((C nor ((not A) or E)) and ((not D) or (not B))),self_generated,5
+logic_dataset/images/00281.png,(C nor E),self_generated,2
+logic_dataset/images/00282.png,((E or (not (C and D))) xnor A),self_generated,4
+logic_dataset/images/00283.png,(E xor B),self_generated,2
+logic_dataset/images/00284.png,(not ((((not E) nor B) nor (A or D)) and C)),self_generated,5
+logic_dataset/images/00285.png,((not (B nor E)) xor (C and (D xor (not A)))),self_generated,5
+logic_dataset/images/00286.png,(not ((not (E nand B)) and C)),self_generated,3
+logic_dataset/images/00287.png,((not (D nand C)) xor A),self_generated,3
+logic_dataset/images/00288.png,((E xor (((not B) xor C) xor (not A))) and D),self_generated,5
+logic_dataset/images/00289.png,(not (E or (not A))),self_generated,2
+logic_dataset/images/00290.png,(A xnor (C or D)),self_generated,3
+logic_dataset/images/00291.png,((not E) or ((not C) nand A)),self_generated,3
+logic_dataset/images/00292.png,(not ((D nand (not A)) and (not ((E and (not B)) or C)))),self_generated,5
+logic_dataset/images/00293.png,((not (C or (not E))) xor (D xor (not A))),self_generated,4
+logic_dataset/images/00294.png,((not C) and ((not E) and B)),self_generated,3
+logic_dataset/images/00295.png,((not ((not ((not B) xnor (not (C xor E)))) nand A)) nand D),self_generated,5
+logic_dataset/images/00296.png,(not ((not (B and A)) or C)),self_generated,3
+logic_dataset/images/00297.png,(C xor B),self_generated,2
+logic_dataset/images/00298.png,(((not C) and (not E)) nand (A or ((not D) nand B))),self_generated,5
+logic_dataset/images/00299.png,(D and C),self_generated,2
+logic_dataset/images/00300.png,((B nor D) and (not ((not E) xor C))),self_generated,4
+logic_dataset/images/00301.png,((not (((not B) xor C) nand E)) or (not D)),self_generated,4
+logic_dataset/images/00302.png,(not (((not C) and E) nor A)),self_generated,3
+logic_dataset/images/00303.png,((D nand (not E)) nand B),self_generated,3
+logic_dataset/images/00304.png,(C and E),self_generated,2
+logic_dataset/images/00305.png,((B xnor (not A)) and (E nor (D or C))),self_generated,5
+logic_dataset/images/00306.png,((B and D) xor A),self_generated,3
+logic_dataset/images/00307.png,((not B) xor D),self_generated,2
+logic_dataset/images/00308.png,((not E) and (A and ((not (D and (not C))) xor B))),self_generated,5
+logic_dataset/images/00309.png,((((not A) nand B) and C) or (D nand E)),self_generated,5
+logic_dataset/images/00310.png,(not ((E or A) xnor C)),self_generated,3
+logic_dataset/images/00311.png,(D or E),self_generated,2
+logic_dataset/images/00312.png,(D nand C),self_generated,2
+logic_dataset/images/00313.png,(A xor ((E xnor C) or D)),self_generated,4
+logic_dataset/images/00314.png,(B xor E),self_generated,2
+logic_dataset/images/00315.png,((not (E or (D xnor (not C)))) xnor (not ((not A) nor (not B)))),self_generated,5
+logic_dataset/images/00316.png,((not (C or D)) xor ((not A) nor E)),self_generated,4
+logic_dataset/images/00317.png,((E nor B) xor ((not A) nand D)),self_generated,4
+logic_dataset/images/00318.png,((not (C or B)) or A),self_generated,3
+logic_dataset/images/00319.png,((not C) or (not (D xnor (not B)))),self_generated,3
+logic_dataset/images/00320.png,((E nand C) or ((not B) xor (not D))),self_generated,4
+logic_dataset/images/00321.png,(not ((((not E) xnor D) and (not (C and B))) nor A)),self_generated,5
+logic_dataset/images/00322.png,(E xnor (not (A nand (not C)))),self_generated,3
+logic_dataset/images/00323.png,(C xor A),self_generated,2
+logic_dataset/images/00324.png,(E nor (not (D nand B))),self_generated,3
+logic_dataset/images/00325.png,(D xnor (A and (not (B xnor E)))),self_generated,4
+logic_dataset/images/00326.png,((not ((not E) nand (not C))) xnor D),self_generated,3
+logic_dataset/images/00327.png,((C nor (not A)) nand B),self_generated,3
+logic_dataset/images/00328.png,((not ((not C) or (not B))) xnor (not ((not (D nand E)) or A))),self_generated,5
+logic_dataset/images/00329.png,(B xnor (A nor ((not D) xnor E))),self_generated,4
+logic_dataset/images/00330.png,(A or (not ((not (B nand C)) or D))),self_generated,4
+logic_dataset/images/00331.png,((A or D) or (not E)),self_generated,3
+logic_dataset/images/00332.png,(D xor ((C or A) and B)),self_generated,4
+logic_dataset/images/00333.png,(D nand ((E xor (not C)) xnor (not (A and (not B))))),self_generated,5
+logic_dataset/images/00334.png,((A nand E) xnor (C nor (not D))),self_generated,4
+logic_dataset/images/00335.png,((not (C nor A)) nor D),self_generated,3
+logic_dataset/images/00336.png,((B nor (not C)) nand A),self_generated,3
+logic_dataset/images/00337.png,((not (E or A)) and (not C)),self_generated,3
+logic_dataset/images/00338.png,((C nand D) xor (not (B xnor (A and E)))),self_generated,5
+logic_dataset/images/00339.png,(D and (not C)),self_generated,2
+logic_dataset/images/00340.png,(D nor B),self_generated,2
+logic_dataset/images/00341.png,((((not B) xnor (not C)) and D) and E),self_generated,4
+logic_dataset/images/00342.png,((not (E or (not B))) xor A),self_generated,3
+logic_dataset/images/00343.png,((E nand C) nor (A xor B)),self_generated,4
+logic_dataset/images/00344.png,(not (C and (not (((not E) and (not D)) nor (not B))))),self_generated,4
+logic_dataset/images/00345.png,(not ((not (B and (not C))) or (not ((D xor E) xor A)))),self_generated,5
+logic_dataset/images/00346.png,((((not A) nor B) xor E) or C),self_generated,4
+logic_dataset/images/00347.png,(C nor (D xnor (A nor (B nor (not E))))),self_generated,5
+logic_dataset/images/00348.png,(((not C) xor (D or (not B))) xor E),self_generated,4
+logic_dataset/images/00349.png,(D xnor (not (C nand (not B)))),self_generated,3
+logic_dataset/images/00350.png,((D nor C) xnor ((not A) or E)),self_generated,4
+logic_dataset/images/00351.png,((not (B or E)) nand D),self_generated,3
+logic_dataset/images/00352.png,((not B) or E),self_generated,2
+logic_dataset/images/00353.png,(not (B xor ((not C) xnor A))),self_generated,3
+logic_dataset/images/00354.png,(A nand (not ((not D) and (B or (not (E nor C)))))),self_generated,5
+logic_dataset/images/00355.png,(not (C xnor (not (A nor D)))),self_generated,3
+logic_dataset/images/00356.png,(not ((not A) nor D)),self_generated,2
+logic_dataset/images/00357.png,(not ((A nor D) nor (not (C or B)))),self_generated,4
+logic_dataset/images/00358.png,((not B) nor ((E or (D xnor C)) nor A)),self_generated,5
+logic_dataset/images/00359.png,((not A) or ((C xnor B) or E)),self_generated,4
+logic_dataset/images/00360.png,((A nand (not E)) xor ((not B) xor D)),self_generated,4
+logic_dataset/images/00361.png,(B xor (not ((not C) and D))),self_generated,3
+logic_dataset/images/00362.png,((not E) xor (B or (not D))),self_generated,3
+logic_dataset/images/00363.png,(B xnor ((not (A or D)) nand (not C))),self_generated,4
+logic_dataset/images/00364.png,((not D) or (not (E xor A))),self_generated,3
+logic_dataset/images/00365.png,(D nand ((not E) nand (not C))),self_generated,3
+logic_dataset/images/00366.png,((not (B and E)) xnor ((not D) xor C)),self_generated,4
+logic_dataset/images/00367.png,(((not E) xor C) and B),self_generated,3
+logic_dataset/images/00368.png,((not (((D or A) and B) nand E)) nand C),self_generated,5
+logic_dataset/images/00369.png,((not (C xor E)) or (not ((not A) nand (B nand (not D))))),self_generated,5
+logic_dataset/images/00370.png,((not ((not B) xnor A)) nand (D xnor (E xnor C))),self_generated,5
+logic_dataset/images/00371.png,(C xor E),self_generated,2
+logic_dataset/images/00372.png,(((not C) xor E) or (A xnor B)),self_generated,4
+logic_dataset/images/00373.png,((not B) xor (D or ((not E) and (not A)))),self_generated,4
+logic_dataset/images/00374.png,(E xor (not ((not (C or A)) xnor (not D)))),self_generated,4
+logic_dataset/images/00375.png,(D and A),self_generated,2
+logic_dataset/images/00376.png,((not C) and (not B)),self_generated,2
+logic_dataset/images/00377.png,((not B) xor A),self_generated,2
+logic_dataset/images/00378.png,((not B) xor (not E)),self_generated,2
+logic_dataset/images/00379.png,(A xnor ((C or (not D)) nor (not B))),self_generated,4
+logic_dataset/images/00380.png,(B nor C),self_generated,2
+logic_dataset/images/00381.png,(((not D) and (((not C) xor B) xnor (not E))) xnor (not A)),self_generated,5
+logic_dataset/images/00382.png,(not (A xnor (not B))),self_generated,2
+logic_dataset/images/00383.png,((C xnor (E or B)) nor A),self_generated,4
+logic_dataset/images/00384.png,(C nand D),self_generated,2
+logic_dataset/images/00385.png,((B xor (D nand E)) and (not A)),self_generated,4
+logic_dataset/images/00386.png,(D or (B and E)),self_generated,3
+logic_dataset/images/00387.png,((E xnor C) xnor D),self_generated,3
+logic_dataset/images/00388.png,(not (C or D)),self_generated,2
+logic_dataset/images/00389.png,(C or ((E xnor D) xnor A)),self_generated,4
+logic_dataset/images/00390.png,(not ((C nand B) or (not (D or (not A))))),self_generated,4
+logic_dataset/images/00391.png,(not (C xor (not B))),self_generated,2
+logic_dataset/images/00392.png,((B and C) nor (not D)),self_generated,3
+logic_dataset/images/00393.png,(not ((not D) xor C)),self_generated,2
+logic_dataset/images/00394.png,((C and A) or D),self_generated,3
+logic_dataset/images/00395.png,(not (B nand ((C or (not D)) xor (not (A or E))))),self_generated,5
+logic_dataset/images/00396.png,((not B) and (not (A nand C))),self_generated,3
+logic_dataset/images/00397.png,(((not (C or E)) nand (not B)) nor (D nand (not A))),self_generated,5
+logic_dataset/images/00398.png,((not (B nand C)) xnor (not A)),self_generated,3
+logic_dataset/images/00399.png,(A and ((not (B nor (not (D and C)))) or (not E))),self_generated,5
+logic_dataset/images/00400.png,(not (E and D)),self_generated,2
+logic_dataset/images/00401.png,(D nand ((not (E xnor B)) and (not (A xor C)))),self_generated,5
+logic_dataset/images/00402.png,((not E) nor (not D)),self_generated,2
+logic_dataset/images/00403.png,((C or (not E)) nor (D nand (not (A and B)))),self_generated,5
+logic_dataset/images/00404.png,(E and (not (A xor D))),self_generated,3
+logic_dataset/images/00405.png,((not (C nand B)) nand E),self_generated,3
+logic_dataset/images/00406.png,(B nand (D or C)),self_generated,3
+logic_dataset/images/00407.png,(((not A) xor (E or D)) xor ((not B) or C)),self_generated,5
+logic_dataset/images/00408.png,(((B and A) nor (not (D xnor C))) nand E),self_generated,5
+logic_dataset/images/00409.png,((not B) xnor (D xnor E)),self_generated,3
+logic_dataset/images/00410.png,(A nor ((not D) nor (not (E xnor C)))),self_generated,4
+logic_dataset/images/00411.png,(A xor C),self_generated,2
+logic_dataset/images/00412.png,(not (((not E) nor A) nand B)),self_generated,3
+logic_dataset/images/00413.png,(((not ((not C) or A)) and B) xor E),self_generated,4
+logic_dataset/images/00414.png,(not ((not E) nand C)),self_generated,2
+logic_dataset/images/00415.png,(A and B),self_generated,2
+logic_dataset/images/00416.png,(not (D xnor C)),self_generated,2
+logic_dataset/images/00417.png,((not (E nand (not (A or C)))) nor D),self_generated,4
+logic_dataset/images/00418.png,((not (((not D) xnor B) and (not E))) and ((not A) or (not C))),self_generated,5
+logic_dataset/images/00419.png,(E and ((not C) xnor (not D))),self_generated,3
+logic_dataset/images/00420.png,((not (B or D)) nor C),self_generated,3
+logic_dataset/images/00421.png,(((B xnor (not D)) nand (not (E nor C))) or A),self_generated,5
+logic_dataset/images/00422.png,(D or ((not ((not B) xnor (not C))) xor (E nor A))),self_generated,5
+logic_dataset/images/00423.png,((not A) nor (((not D) nor E) and (not (C xor B)))),self_generated,5
+logic_dataset/images/00424.png,((not ((not E) or (not D))) nand (not (A or ((not C) xnor (not B))))),self_generated,5
+logic_dataset/images/00425.png,(not (A nand B)),self_generated,2
+logic_dataset/images/00426.png,(((not A) or (not E)) and (not ((not (C xnor (not B))) nor D))),self_generated,5
+logic_dataset/images/00427.png,((not A) xor (not ((not E) nand D))),self_generated,3
+logic_dataset/images/00428.png,(B or (not (D xnor (A and (E or C))))),self_generated,5
+logic_dataset/images/00429.png,(B nor (C or ((not A) xor E))),self_generated,4
+logic_dataset/images/00430.png,((C or A) nand (not ((not D) and (E or B)))),self_generated,5
+logic_dataset/images/00431.png,((not (C xnor D)) xnor (((not B) xnor (not A)) and E)),self_generated,5
+logic_dataset/images/00432.png,((B or D) nand ((not C) xnor (not E))),self_generated,4
+logic_dataset/images/00433.png,((not A) nor (not C)),self_generated,2
+logic_dataset/images/00434.png,((not A) nor (not (B xor D))),self_generated,3
+logic_dataset/images/00435.png,((not (B and E)) and (A nor (D xor C))),self_generated,5
+logic_dataset/images/00436.png,(not (E nand B)),self_generated,2
+logic_dataset/images/00437.png,(((not C) xor ((not B) nor A)) xnor (not E)),self_generated,4
+logic_dataset/images/00438.png,(D xor ((not C) nand B)),self_generated,3
+logic_dataset/images/00439.png,((not (B and E)) and (not (D or A))),self_generated,4
+logic_dataset/images/00440.png,((not B) nand ((D xor C) or (not E))),self_generated,4
+logic_dataset/images/00441.png,(not (A or (not B))),self_generated,2
+logic_dataset/images/00442.png,((D nand (not C)) nand ((not B) nand A)),self_generated,4
+logic_dataset/images/00443.png,((not (B xnor (not A))) or (not ((not (D xnor E)) or C))),self_generated,5
+logic_dataset/images/00444.png,(((D xor E) xnor C) and (A nor B)),self_generated,5
+logic_dataset/images/00445.png,((D nand ((not C) nor A)) nor E),self_generated,4
+logic_dataset/images/00446.png,((not ((not E) xor (not D))) nand C),self_generated,3
+logic_dataset/images/00447.png,(not (((E nand A) nand B) and (not D))),self_generated,4
+logic_dataset/images/00448.png,(A xor E),self_generated,2
+logic_dataset/images/00449.png,(C or B),self_generated,2
+logic_dataset/images/00450.png,((not B) nor (not ((not ((D or A) xnor C)) nand E))),self_generated,5
+logic_dataset/images/00451.png,(not (C or (not (D and (not E))))),self_generated,3
+logic_dataset/images/00452.png,(((not D) xnor B) xor E),self_generated,3
+logic_dataset/images/00453.png,((not E) nor (not C)),self_generated,2
+logic_dataset/images/00454.png,(A or ((not E) and (C xnor (not B)))),self_generated,4
+logic_dataset/images/00455.png,(((not E) nand B) nor (A nand C)),self_generated,4
+logic_dataset/images/00456.png,((((not E) nor A) nand (not D)) nor B),self_generated,4
+logic_dataset/images/00457.png,(((not E) xnor ((not A) and (not C))) xor B),self_generated,4
+logic_dataset/images/00458.png,(((not D) or B) or E),self_generated,3
+logic_dataset/images/00459.png,(not (B nand (not (((not C) or E) nand (not D))))),self_generated,4
+logic_dataset/images/00460.png,(C or (not E)),self_generated,2
+logic_dataset/images/00461.png,(C and (not ((not D) xnor E))),self_generated,3
+logic_dataset/images/00462.png,(((not C) and ((not B) or E)) or (not A)),self_generated,4
+logic_dataset/images/00463.png,(((not A) xnor E) xor ((B or C) xnor D)),self_generated,5
+logic_dataset/images/00464.png,((not A) or (D or E)),self_generated,3
+logic_dataset/images/00465.png,(((not E) nor (C and A)) or (not D)),self_generated,4
+logic_dataset/images/00466.png,((not (E xor C)) xnor D),self_generated,3
+logic_dataset/images/00467.png,((not D) xnor B),self_generated,2
+logic_dataset/images/00468.png,((B or A) xor D),self_generated,3
+logic_dataset/images/00469.png,((not (E xor (not C))) and (D and (A xor B))),self_generated,5
+logic_dataset/images/00470.png,((not (C xor B)) nand A),self_generated,3
+logic_dataset/images/00471.png,((A or (not C)) nor (not E)),self_generated,3
+logic_dataset/images/00472.png,((not (B nor (C nand E))) xor D),self_generated,4
+logic_dataset/images/00473.png,(not ((A nor D) nand ((not (C xor (not B))) nor E))),self_generated,5
+logic_dataset/images/00474.png,((not C) nor (not E)),self_generated,2
+logic_dataset/images/00475.png,((not (A nor (E or C))) and ((not D) xnor B)),self_generated,5
+logic_dataset/images/00476.png,(B xnor ((not ((not C) nor D)) xnor E)),self_generated,4
+logic_dataset/images/00477.png,(((not D) xnor (not E)) xor B),self_generated,3
+logic_dataset/images/00478.png,(A nor (C xnor D)),self_generated,3
+logic_dataset/images/00479.png,((not (E xnor A)) and (C nand D)),self_generated,4
+logic_dataset/images/00480.png,(D or (A nor E)),self_generated,3
+logic_dataset/images/00481.png,((not B) and D),self_generated,2
+logic_dataset/images/00482.png,((not B) and (A and (D nor E))),self_generated,4
+logic_dataset/images/00483.png,(A xnor ((not B) xor D)),self_generated,3
+logic_dataset/images/00484.png,(not (((not C) xnor B) and ((D nor A) nand (not E)))),self_generated,5
+logic_dataset/images/00485.png,((D nand (not B)) and (not (C or (not E)))),self_generated,4
+logic_dataset/images/00486.png,(not (B and (not ((not D) nand (not C))))),self_generated,3
+logic_dataset/images/00487.png,(D or B),self_generated,2
+logic_dataset/images/00488.png,((not E) or D),self_generated,2
+logic_dataset/images/00489.png,(B nor (D xor (not C))),self_generated,3
+logic_dataset/images/00490.png,(not (E or B)),self_generated,2
+logic_dataset/images/00491.png,((not B) and ((not D) or (not E))),self_generated,3
+logic_dataset/images/00492.png,((A xnor C) nor B),self_generated,3
+logic_dataset/images/00493.png,(C xor ((D nor B) xnor A)),self_generated,4
+logic_dataset/images/00494.png,((B and (E and (not D))) or A),self_generated,4
+logic_dataset/images/00495.png,((not A) nand E),self_generated,2
+logic_dataset/images/00496.png,(A or (not C)),self_generated,2
+logic_dataset/images/00497.png,((not ((not (D or A)) xnor C)) or (not E)),self_generated,4
+logic_dataset/images/00498.png,((((B or C) nor E) xor D) xor A),self_generated,5
+logic_dataset/images/00499.png,(D or (not (B xor A))),self_generated,3
+logic_dataset/images/00500.png,(B nand (not D)),self_generated,2
+logic_dataset/images/00501.png,((not D) xor (not E)),self_generated,2
+logic_dataset/images/00502.png,(not ((A xnor E) xnor (B nand D))),self_generated,4
+logic_dataset/images/00503.png,(D xor (C xnor E)),self_generated,3
+logic_dataset/images/00504.png,(C nor (B or (D nor A))),self_generated,4
+logic_dataset/images/00505.png,(C or (not ((not A) xor (not B)))),self_generated,3
+logic_dataset/images/00506.png,((C and (E xnor (not B))) xnor (A xnor D)),self_generated,5
+logic_dataset/images/00507.png,((A or (not E)) nand ((not ((not B) nor C)) nor (not D))),self_generated,5
+logic_dataset/images/00508.png,((B and D) nand (C or E)),self_generated,4
+logic_dataset/images/00509.png,(not ((not ((not B) and D)) xnor (E or (not C)))),self_generated,4
+logic_dataset/images/00510.png,(E and (not (((not B) nor (not A)) xor (not C)))),self_generated,4
+logic_dataset/images/00511.png,(A or ((C and (E nand (not D))) nor B)),self_generated,5
+logic_dataset/images/00512.png,((C xnor (not E)) nand (not D)),self_generated,3
+logic_dataset/images/00513.png,((B and C) and (D nor A)),self_generated,4
+logic_dataset/images/00514.png,(B xnor D),self_generated,2
+logic_dataset/images/00515.png,(not (((not C) and (A nor D)) nand (E or (not B)))),self_generated,5
+logic_dataset/images/00516.png,(D and ((A xnor (B xnor C)) xor (not E))),self_generated,5
+logic_dataset/images/00517.png,(A nand (C xor E)),self_generated,3
+logic_dataset/images/00518.png,(B nand ((not D) or (not C))),self_generated,3
+logic_dataset/images/00519.png,(((not ((not A) and B)) nand C) and (D xnor E)),self_generated,5
+logic_dataset/images/00520.png,(not (B xnor C)),self_generated,2
+logic_dataset/images/00521.png,(((not B) or A) xor (D or C)),self_generated,4
+logic_dataset/images/00522.png,((A nor (not C)) xnor D),self_generated,3
+logic_dataset/images/00523.png,((not C) or (B and A)),self_generated,3
+logic_dataset/images/00524.png,(((not C) nor D) nor (not B)),self_generated,3
+logic_dataset/images/00525.png,(((not D) xnor (E and A)) or ((not B) and C)),self_generated,5
+logic_dataset/images/00526.png,(A nand C),self_generated,2
+logic_dataset/images/00527.png,(C nand B),self_generated,2
+logic_dataset/images/00528.png,(((not D) xnor E) nor C),self_generated,3
+logic_dataset/images/00529.png,(A nand (B xnor D)),self_generated,3
+logic_dataset/images/00530.png,((C or (B nand A)) and D),self_generated,4
+logic_dataset/images/00531.png,(A and E),self_generated,2
+logic_dataset/images/00532.png,(B and (not C)),self_generated,2
+logic_dataset/images/00533.png,((not C) or (not D)),self_generated,2
+logic_dataset/images/00534.png,(not (D xor B)),self_generated,2
+logic_dataset/images/00535.png,((D nand E) xor ((not B) and (A nor (not C)))),self_generated,5
+logic_dataset/images/00536.png,((E xnor (not (D and A))) xor B),self_generated,4
+logic_dataset/images/00537.png,(((not D) xnor (B and E)) nand (not C)),self_generated,4
+logic_dataset/images/00538.png,(((not C) and B) and D),self_generated,3
+logic_dataset/images/00539.png,(A xor (not ((not C) and (E nand B)))),self_generated,4
+logic_dataset/images/00540.png,((D and A) or E),self_generated,3
+logic_dataset/images/00541.png,(((not C) and (B and D)) nand (A xnor E)),self_generated,5
+logic_dataset/images/00542.png,(C xor (not ((A and (B and E)) nand D))),self_generated,5
+logic_dataset/images/00543.png,(((not D) xnor (not (C nand (not B)))) nor A),self_generated,4
+logic_dataset/images/00544.png,(C xor (A nand D)),self_generated,3
+logic_dataset/images/00545.png,(not ((not D) or (not A))),self_generated,2
+logic_dataset/images/00546.png,((not ((E or B) and C)) or ((not D) xnor A)),self_generated,5
+logic_dataset/images/00547.png,(E and ((not A) xor (C nand B))),self_generated,4
+logic_dataset/images/00548.png,((not C) and (D or (not (B and A)))),self_generated,4
+logic_dataset/images/00549.png,(((not E) xor B) xnor (not (C or (not D)))),self_generated,4
+logic_dataset/images/00550.png,(B xnor (E or (not A))),self_generated,3
+logic_dataset/images/00551.png,((B and A) and ((C nand E) or (not D))),self_generated,5
+logic_dataset/images/00552.png,((A nor (not E)) or ((not C) xor (D xnor (not B)))),self_generated,5
+logic_dataset/images/00553.png,(B or D),self_generated,2
+logic_dataset/images/00554.png,((C nand A) or ((not E) and D)),self_generated,4
+logic_dataset/images/00555.png,(not ((not D) xor ((not C) nor (B xnor E)))),self_generated,4
+logic_dataset/images/00556.png,(((C xnor E) or (not A)) or B),self_generated,4
+logic_dataset/images/00557.png,(((A xnor B) or D) xnor (not (C and E))),self_generated,5
+logic_dataset/images/00558.png,((not A) nand (B nand C)),self_generated,3
+logic_dataset/images/00559.png,(C nor ((A and B) nor ((not D) nor E))),self_generated,5
+logic_dataset/images/00560.png,(D xor (not (C nand E))),self_generated,3
+logic_dataset/images/00561.png,((not (A nor C)) nor D),self_generated,3
+logic_dataset/images/00562.png,(D xnor (B nor E)),self_generated,3
+logic_dataset/images/00563.png,((C nor E) nor D),self_generated,3
+logic_dataset/images/00564.png,(C nor D),self_generated,2
+logic_dataset/images/00565.png,((not C) and (not E)),self_generated,2
+logic_dataset/images/00566.png,((not (((not ((not D) xor E)) nand B) nand C)) nor (not A)),self_generated,5
+logic_dataset/images/00567.png,((not D) nor A),self_generated,2
+logic_dataset/images/00568.png,((B xor E) xor A),self_generated,3
+logic_dataset/images/00569.png,((C xnor (not B)) or ((not D) or A)),self_generated,4
+logic_dataset/images/00570.png,(not (((not A) nand E) or (not C))),self_generated,3
+logic_dataset/images/00571.png,((not B) or (not ((C or D) and E))),self_generated,4
+logic_dataset/images/00572.png,(not ((C nor D) or (A or E))),self_generated,4
+logic_dataset/images/00573.png,(D nor (not C)),self_generated,2
+logic_dataset/images/00574.png,(D xor C),self_generated,2
+logic_dataset/images/00575.png,(E nor C),self_generated,2
+logic_dataset/images/00576.png,((A xnor (not D)) and C),self_generated,3
+logic_dataset/images/00577.png,(((not B) nor (D and E)) nand (C nor A)),self_generated,5
+logic_dataset/images/00578.png,(not ((not ((not B) nor C)) xor (E nand ((not A) or D)))),self_generated,5
+logic_dataset/images/00579.png,((not ((E nor A) and B)) xnor D),self_generated,4
+logic_dataset/images/00580.png,((not A) nor (D nand B)),self_generated,3
+logic_dataset/images/00581.png,(D xnor E),self_generated,2
+logic_dataset/images/00582.png,(((not C) nand E) and B),self_generated,3
+logic_dataset/images/00583.png,((((not D) or E) and C) nand B),self_generated,4
+logic_dataset/images/00584.png,(B xor (A or (E xnor C))),self_generated,4
+logic_dataset/images/00585.png,(not (E and (not (B nor (not (((not C) nand A) xor D)))))),self_generated,5
+logic_dataset/images/00586.png,((not (D or B)) nand (C or (not (E and (not A))))),self_generated,5
+logic_dataset/images/00587.png,((not (D xor A)) nor (not (B xnor E))),self_generated,4
+logic_dataset/images/00588.png,(((not (B nor C)) xnor A) xnor (D and E)),self_generated,5
+logic_dataset/images/00589.png,(B nor D),self_generated,2
+logic_dataset/images/00590.png,(C xnor (not ((not E) xor ((B nand (not A)) xor D)))),self_generated,5
+logic_dataset/images/00591.png,((not D) and (not (A xor (not C)))),self_generated,3
+logic_dataset/images/00592.png,((not ((E nor C) and A)) nor (D or B)),self_generated,5
+logic_dataset/images/00593.png,(C nor ((not A) nand (not B))),self_generated,3
+logic_dataset/images/00594.png,((B xor D) and ((not (A nand C)) and (not E))),self_generated,5
+logic_dataset/images/00595.png,(not ((D and A) xnor (not (C or (not B))))),self_generated,4
+logic_dataset/images/00596.png,(B nor (A and C)),self_generated,3
+logic_dataset/images/00597.png,(not ((B or E) nand C)),self_generated,3
+logic_dataset/images/00598.png,(C and ((A xnor (not E)) nor B)),self_generated,4
+logic_dataset/images/00599.png,(((not C) and B) and (not (E xnor A))),self_generated,4
+logic_dataset/images/00600.png,((not C) nand E),self_generated,2
+logic_dataset/images/00601.png,(not ((not ((not D) or E)) and A)),self_generated,3
+logic_dataset/images/00602.png,(((not (D nor (not E))) xor (B nand A)) nand (not C)),self_generated,5
+logic_dataset/images/00603.png,(not (E xor (D nand A))),self_generated,3
+logic_dataset/images/00604.png,(A xnor (D nor (not (E nand B)))),self_generated,4
+logic_dataset/images/00605.png,(E or ((not (B xnor C)) xnor (D nor A))),self_generated,5
+logic_dataset/images/00606.png,(not ((C nor (E and B)) xor (not (D xor A)))),self_generated,5
+logic_dataset/images/00607.png,((B or E) xor (C or ((not A) nand D))),self_generated,5
+logic_dataset/images/00608.png,((E xnor (not B)) and A),self_generated,3
+logic_dataset/images/00609.png,(not ((E and (B xnor (not A))) nor (not D))),self_generated,4
+logic_dataset/images/00610.png,(((not (D nand A)) xnor (E nor B)) and (not C)),self_generated,5
+logic_dataset/images/00611.png,(A and (not C)),self_generated,2
+logic_dataset/images/00612.png,(not (E or (not (D and (not A))))),self_generated,3
+logic_dataset/images/00613.png,((not (C xnor A)) or (E and B)),self_generated,4
+logic_dataset/images/00614.png,((not C) xnor ((not B) xor (not E))),self_generated,3
+logic_dataset/images/00615.png,((not ((D nor B) nand (A xor (not C)))) nand E),self_generated,5
+logic_dataset/images/00616.png,(((not D) or E) and B),self_generated,3
+logic_dataset/images/00617.png,(E nand C),self_generated,2
+logic_dataset/images/00618.png,(D nor A),self_generated,2
+logic_dataset/images/00619.png,((not (E xnor C)) nand D),self_generated,3
+logic_dataset/images/00620.png,((C or D) or B),self_generated,3
+logic_dataset/images/00621.png,((A xor (D xnor E)) and (not C)),self_generated,4
+logic_dataset/images/00622.png,((B and D) or (A xnor (not (E or (not C))))),self_generated,5
+logic_dataset/images/00623.png,(not ((D xor (not ((not C) xor B))) nor E)),self_generated,4
+logic_dataset/images/00624.png,((not D) xor ((not (A nor (not C))) or B)),self_generated,4
+logic_dataset/images/00625.png,(A or (not ((not E) xnor (not ((not C) or B))))),self_generated,4
+logic_dataset/images/00626.png,(not ((not C) nand E)),self_generated,2
+logic_dataset/images/00627.png,(((not D) xnor (E xor (not A))) or C),self_generated,4
+logic_dataset/images/00628.png,(((not (C xnor D)) and (not E)) xnor (not (A xor B))),self_generated,5
+logic_dataset/images/00629.png,(((not A) nand B) nand (not E)),self_generated,3
+logic_dataset/images/00630.png,(not ((E and (not (C xnor B))) or (not (A or D)))),self_generated,5
+logic_dataset/images/00631.png,((E xor C) xor (not (A nand B))),self_generated,4
+logic_dataset/images/00632.png,((not (A xor C)) nand B),self_generated,3
+logic_dataset/images/00633.png,(((not D) or C) xnor B),self_generated,3
+logic_dataset/images/00634.png,(B and (C xnor ((not A) xor (D xor E)))),self_generated,5
+logic_dataset/images/00635.png,(not ((not (C nand (not B))) and (not (A and (not E))))),self_generated,4
+logic_dataset/images/00636.png,((B nor D) nand (A nand C)),self_generated,4
+logic_dataset/images/00637.png,((not (A nand (D nor B))) xnor (not (E xnor (not C)))),self_generated,5
+logic_dataset/images/00638.png,((not (E and D)) xor (not (C nand (not (B nand A))))),self_generated,5
+logic_dataset/images/00639.png,(not (((not (B and (D xnor E))) xnor (not A)) and C)),self_generated,5
+logic_dataset/images/00640.png,((not D) or B),self_generated,2
+logic_dataset/images/00641.png,(not (B and C)),self_generated,2
+logic_dataset/images/00642.png,((not A) xnor (B nand (not E))),self_generated,3
+logic_dataset/images/00643.png,(E nand (not B)),self_generated,2
+logic_dataset/images/00644.png,((E xnor (not B)) or C),self_generated,3
+logic_dataset/images/00645.png,(not (E nor (not D))),self_generated,2
+logic_dataset/images/00646.png,((C nand B) nand (not D)),self_generated,3
+logic_dataset/images/00647.png,((not (((D xor C) xnor A) or E)) nor B),self_generated,5
+logic_dataset/images/00648.png,(not ((not (B xnor C)) xor E)),self_generated,3
+logic_dataset/images/00649.png,(not ((A nand E) or (not (D nor C)))),self_generated,4
+logic_dataset/images/00650.png,((not (C and (not (D or (not E))))) xor ((not A) nand B)),self_generated,5
+logic_dataset/images/00651.png,((not D) nand C),self_generated,2
+logic_dataset/images/00652.png,((E nand (D nor B)) xnor C),self_generated,4
+logic_dataset/images/00653.png,(D xor (not B)),self_generated,2
+logic_dataset/images/00654.png,((not ((not C) or (E nand D))) nor (not A)),self_generated,4
+logic_dataset/images/00655.png,((E or C) or ((D xor A) and (not B))),self_generated,5
+logic_dataset/images/00656.png,(A and (not E)),self_generated,2
+logic_dataset/images/00657.png,(D and (not (((not B) nor (not A)) xnor (not (C nand E))))),self_generated,5
+logic_dataset/images/00658.png,(C nor A),self_generated,2
+logic_dataset/images/00659.png,(((not (B xor D)) xor E) or (not (C or A))),self_generated,5
+logic_dataset/images/00660.png,(B nand (not (E and D))),self_generated,3
+logic_dataset/images/00661.png,(((not C) or D) nor (not (B and A))),self_generated,4
+logic_dataset/images/00662.png,((not (C or E)) nor (not ((A nand (not B)) or D))),self_generated,5
+logic_dataset/images/00663.png,((not C) xnor (not D)),self_generated,2
+logic_dataset/images/00664.png,((not ((C xnor A) xnor D)) nand (not B)),self_generated,4
+logic_dataset/images/00665.png,(A nand (not ((C or (not D)) nor (not (E nand B))))),self_generated,5
+logic_dataset/images/00666.png,((not D) nand (not E)),self_generated,2
+logic_dataset/images/00667.png,(((not D) or B) xnor ((not E) nand C)),self_generated,4
+logic_dataset/images/00668.png,((not ((not ((not B) and A)) or E)) nor D),self_generated,4
+logic_dataset/images/00669.png,((not (B xor (not A))) xor E),self_generated,3
+logic_dataset/images/00670.png,(B and (not ((not C) xnor D))),self_generated,3
+logic_dataset/images/00671.png,(A nand B),self_generated,2
+logic_dataset/images/00672.png,((not (E xnor A)) xor (((not C) xor (not D)) xnor B)),self_generated,5
+logic_dataset/images/00673.png,((not E) xnor (not ((A and C) and B))),self_generated,4
+logic_dataset/images/00674.png,((not A) xor (not ((not (D nand E)) nand B))),self_generated,4
+logic_dataset/images/00675.png,(((not (D xnor C)) xnor B) or (A xnor (not E))),self_generated,5
+logic_dataset/images/00676.png,(B nand (not (C and A))),self_generated,3
+logic_dataset/images/00677.png,(not ((not (E xnor B)) nand (D and ((not A) nor C)))),self_generated,5
+logic_dataset/images/00678.png,(C nor ((D or E) xor ((not B) and A))),self_generated,5
+logic_dataset/images/00679.png,(not (((D and B) and E) nand (C xnor A))),self_generated,5
+logic_dataset/images/00680.png,((not (C xor (not B))) and (not E)),self_generated,3
+logic_dataset/images/00681.png,(not (((not E) and A) and C)),self_generated,3
+logic_dataset/images/00682.png,((not (C nor (not B))) xor (D or A)),self_generated,4
+logic_dataset/images/00683.png,(not (A nand (D xnor (not ((not C) nand (E xnor (not B))))))),self_generated,5
+logic_dataset/images/00684.png,(C and (E nand (not D))),self_generated,3
+logic_dataset/images/00685.png,((C and D) xnor ((not B) xor A)),self_generated,4
+logic_dataset/images/00686.png,((B xor C) nor (not (A nor D))),self_generated,4
+logic_dataset/images/00687.png,((not (E and (not C))) and (not B)),self_generated,3
+logic_dataset/images/00688.png,((A xor (not (C or (not D)))) or (not E)),self_generated,4
+logic_dataset/images/00689.png,(B xnor (A or (not ((not E) nor D)))),self_generated,4
+logic_dataset/images/00690.png,(A or D),self_generated,2
+logic_dataset/images/00691.png,(not (E nor ((not C) xor A))),self_generated,3
+logic_dataset/images/00692.png,((not A) and (not ((not B) or (not E)))),self_generated,3
+logic_dataset/images/00693.png,(not (C nand (not E))),self_generated,2
+logic_dataset/images/00694.png,(B xnor ((not C) and (not A))),self_generated,3
+logic_dataset/images/00695.png,((B nor C) xnor (A and (not (E xnor (not D))))),self_generated,5
+logic_dataset/images/00696.png,((not (B or D)) and (not (C nor (not (E or A))))),self_generated,5
+logic_dataset/images/00697.png,(A nor (not E)),self_generated,2
+logic_dataset/images/00698.png,(((not D) or C) and E),self_generated,3
+logic_dataset/images/00699.png,((not (E and (not A))) and B),self_generated,3
+logic_dataset/images/00700.png,((E nor (not D)) nor (C xnor (not (B and A)))),self_generated,5
+logic_dataset/images/00701.png,((not (A nor E)) or ((not D) nand (not (B xnor C)))),self_generated,5
+logic_dataset/images/00702.png,(((B nor A) or (D nand E)) nand (not C)),self_generated,5
+logic_dataset/images/00703.png,(D nor (C xor B)),self_generated,3
+logic_dataset/images/00704.png,((not D) nand ((A xor (not B)) xnor (not (E or C)))),self_generated,5
+logic_dataset/images/00705.png,(not ((not B) or A)),self_generated,2
+logic_dataset/images/00706.png,(not ((D xnor E) nor (B and (not A)))),self_generated,4
+logic_dataset/images/00707.png,((D nor (A or C)) nand (not (B and E))),self_generated,5
+logic_dataset/images/00708.png,(not (D and (not (A nor B)))),self_generated,3
+logic_dataset/images/00709.png,((not C) xor (E and (D and A))),self_generated,4
+logic_dataset/images/00710.png,((not (E and C)) xnor (B or A)),self_generated,4
+logic_dataset/images/00711.png,(A and (not D)),self_generated,2
+logic_dataset/images/00712.png,((E nor (C xor B)) nor A),self_generated,4
+logic_dataset/images/00713.png,((C or (not ((not E) xor A))) and ((not D) or B)),self_generated,5
+logic_dataset/images/00714.png,(D and ((A xnor C) xor B)),self_generated,4
+logic_dataset/images/00715.png,(not ((not (C or A)) nand (D nand B))),self_generated,4
+logic_dataset/images/00716.png,(not (E or (not C))),self_generated,2
+logic_dataset/images/00717.png,(((E xor C) xnor D) nor (B and A)),self_generated,5
+logic_dataset/images/00718.png,(((B nor D) nor C) or (E or A)),self_generated,5
+logic_dataset/images/00719.png,((not ((not C) xor (not E))) nand (not ((not A) or (D and B)))),self_generated,5
+logic_dataset/images/00720.png,((not (E and (not (D xor (C xor B))))) xor (not A)),self_generated,5
+logic_dataset/images/00721.png,(((not ((not D) and (not A))) nor (not E)) nand B),self_generated,4
+logic_dataset/images/00722.png,(((B nand C) nand E) or (A xnor D)),self_generated,5
+logic_dataset/images/00723.png,(((not ((D and A) or B)) xor E) xnor C),self_generated,5
+logic_dataset/images/00724.png,(((E or A) xnor C) xnor D),self_generated,4
+logic_dataset/images/00725.png,(not ((not (((not (B nor (not C))) xnor A) nor D)) nor E)),self_generated,5
+logic_dataset/images/00726.png,((((not (C xnor A)) or D) xor B) nand E),self_generated,5
+logic_dataset/images/00727.png,((not (C nor D)) xnor (not (B xor E))),self_generated,4
+logic_dataset/images/00728.png,(E or C),self_generated,2
+logic_dataset/images/00729.png,(not (C or ((not A) xnor (not (((not D) nor B) nand E))))),self_generated,5
+logic_dataset/images/00730.png,((not ((not D) xor E)) and ((not A) or (C xor (not B)))),self_generated,5
+logic_dataset/images/00731.png,(D nor (not (E or B))),self_generated,3
+logic_dataset/images/00732.png,((A nor D) or B),self_generated,3
+logic_dataset/images/00733.png,((not (D xor C)) nor (not E)),self_generated,3
+logic_dataset/images/00734.png,((not E) and (B xnor (not A))),self_generated,3
+logic_dataset/images/00735.png,(B nor (E nand A)),self_generated,3
+logic_dataset/images/00736.png,((not (D xnor (E or B))) nor A),self_generated,4
+logic_dataset/images/00737.png,(not ((not A) xnor E)),self_generated,2
+logic_dataset/images/00738.png,((not (D or E)) nand (not A)),self_generated,3
+logic_dataset/images/00739.png,(C nor B),self_generated,2
+logic_dataset/images/00740.png,((not (A xnor C)) xnor (not (D xnor B))),self_generated,4
+logic_dataset/images/00741.png,(not (B nand (A or (D or (C xor E))))),self_generated,5
+logic_dataset/images/00742.png,(A xor (not ((not (D nand E)) nor B))),self_generated,4
+logic_dataset/images/00743.png,((E nor (not ((not B) and D))) xnor (not (A and C))),self_generated,5
+logic_dataset/images/00744.png,(((not A) xor C) nor E),self_generated,3
+logic_dataset/images/00745.png,(not ((not (E xnor A)) nand (D xnor C))),self_generated,4
+logic_dataset/images/00746.png,(not ((not E) nand (not ((((not B) xnor (not A)) and D) and C)))),self_generated,5
+logic_dataset/images/00747.png,(A xor (D xor E)),self_generated,3
+logic_dataset/images/00748.png,(not ((not (A xor (not B))) or D)),self_generated,3
+logic_dataset/images/00749.png,(not (C or ((A xor E) or (D or B)))),self_generated,5
+logic_dataset/images/00750.png,(B and (((not D) and A) and E)),self_generated,4
+logic_dataset/images/00751.png,(((not B) xor (not A)) nand D),self_generated,3
+logic_dataset/images/00752.png,(not (E nand (B or (not A)))),self_generated,3
+logic_dataset/images/00753.png,((not ((not B) xnor (not C))) and (not ((not D) xnor (not (E or (not A)))))),self_generated,5
+logic_dataset/images/00754.png,(C nand A),self_generated,2
+logic_dataset/images/00755.png,((not C) or (not ((A xor D) or B))),self_generated,4
+logic_dataset/images/00756.png,(not (C nor (not D))),self_generated,2
+logic_dataset/images/00757.png,(not (D nand B)),self_generated,2
+logic_dataset/images/00758.png,((not (D xor (not E))) and A),self_generated,3
+logic_dataset/images/00759.png,(not ((D nand ((B nor E) or A)) and C)),self_generated,5
+logic_dataset/images/00760.png,(A or ((E xnor (not C)) nor B)),self_generated,4
+logic_dataset/images/00761.png,(not (A or B)),self_generated,2
+logic_dataset/images/00762.png,(B and ((E nor A) and C)),self_generated,4
+logic_dataset/images/00763.png,(D xor (not ((C nor E) or (not A)))),self_generated,4
+logic_dataset/images/00764.png,((not ((C nor B) nor E)) xnor A),self_generated,4
+logic_dataset/images/00765.png,((not ((D nor (not E)) nor C)) xor B),self_generated,4
+logic_dataset/images/00766.png,(((not (D xnor (not B))) or C) or A),self_generated,4
+logic_dataset/images/00767.png,(D or (not ((C and (not E)) nor B))),self_generated,4
+logic_dataset/images/00768.png,(E or (A xor (D and C))),self_generated,4
+logic_dataset/images/00769.png,(B nor (A and D)),self_generated,3
+logic_dataset/images/00770.png,(((A nor B) xnor C) xor (D or E)),self_generated,5
+logic_dataset/images/00771.png,(not ((not (C xnor E)) xnor B)),self_generated,3
+logic_dataset/images/00772.png,(D xor (A nand (E xnor C))),self_generated,4
+logic_dataset/images/00773.png,((C xnor E) nand (not A)),self_generated,3
+logic_dataset/images/00774.png,(B and (C xor D)),self_generated,3
+logic_dataset/images/00775.png,(E nand (not C)),self_generated,2
+logic_dataset/images/00776.png,(((not B) xnor (not E)) or (not A)),self_generated,3
+logic_dataset/images/00777.png,(not (((not ((not E) and (not C))) nor B) nor (not D))),self_generated,4
+logic_dataset/images/00778.png,(not ((not E) or (C nand (B nand D)))),self_generated,4
+logic_dataset/images/00779.png,((not (E xor ((not D) xnor (not (B xnor C))))) xnor A),self_generated,5
+logic_dataset/images/00780.png,((not A) nand B),self_generated,2
+logic_dataset/images/00781.png,((A or (E nor (not C))) nand (not (B and D))),self_generated,5
+logic_dataset/images/00782.png,(not (C and B)),self_generated,2
+logic_dataset/images/00783.png,((C xor D) xnor (not (A nor (not E)))),self_generated,4
+logic_dataset/images/00784.png,(not ((D nor A) nor B)),self_generated,3
+logic_dataset/images/00785.png,((not (B and (not E))) or (not D)),self_generated,3
+logic_dataset/images/00786.png,(D and (not E)),self_generated,2
+logic_dataset/images/00787.png,((not ((not ((not E) and B)) xnor (not A))) xor ((not D) nand C)),self_generated,5
+logic_dataset/images/00788.png,((not C) and ((not (D nand (not E))) nor A)),self_generated,4
+logic_dataset/images/00789.png,(((E and B) and (not C)) and (not A)),self_generated,4
+logic_dataset/images/00790.png,(A nor C),self_generated,2
+logic_dataset/images/00791.png,((((B nor (not C)) and D) xnor A) and (not E)),self_generated,5
+logic_dataset/images/00792.png,(((not E) nor (C nor B)) xor ((not A) or D)),self_generated,5
+logic_dataset/images/00793.png,((not B) xnor (D xor (not A))),self_generated,3
+logic_dataset/images/00794.png,((not D) xor ((not A) xor E)),self_generated,3
+logic_dataset/images/00795.png,(C xor (not (A and B))),self_generated,3
+logic_dataset/images/00796.png,((not C) xor D),self_generated,2
+logic_dataset/images/00797.png,(not (D xor ((E nor B) or (not C)))),self_generated,4
+logic_dataset/images/00798.png,((not E) and (not (D and A))),self_generated,3
+logic_dataset/images/00799.png,((not A) nand (not D)),self_generated,2
+logic_dataset/images/00800.png,(not ((((not A) nand E) or C) xnor B)),self_generated,4
+logic_dataset/images/00801.png,(A xor (((B nor (not E)) xor (not D)) or C)),self_generated,5
+logic_dataset/images/00802.png,((A xnor (B or D)) xor E),self_generated,4
+logic_dataset/images/00803.png,((not (D xor A)) xor ((not C) or E)),self_generated,4
+logic_dataset/images/00804.png,(not (A xnor ((B and (not (E nand D))) xor C))),self_generated,5
+logic_dataset/images/00805.png,((not (E xor ((not A) xnor (not D)))) nand C),self_generated,4
+logic_dataset/images/00806.png,(not (A and D)),self_generated,2
+logic_dataset/images/00807.png,(C nor ((not (A or D)) xnor B)),self_generated,4
+logic_dataset/images/00808.png,(E and C),self_generated,2
+logic_dataset/images/00809.png,(D nor ((E nand A) xnor C)),self_generated,4
+logic_dataset/images/00810.png,(B and (D xor A)),self_generated,3
+logic_dataset/images/00811.png,(C and (not ((not (E xnor B)) xor (not A)))),self_generated,4
+logic_dataset/images/00812.png,((D and E) nor ((not C) and A)),self_generated,4
+logic_dataset/images/00813.png,((B xor (not D)) xor (not (C and ((not A) nand E)))),self_generated,5
+logic_dataset/images/00814.png,(A xnor (not E)),self_generated,2
+logic_dataset/images/00815.png,(not (A nand C)),self_generated,2
+logic_dataset/images/00816.png,(A or ((E nor (not B)) or C)),self_generated,4
+logic_dataset/images/00817.png,(not ((not (B xor (not D))) xnor ((not A) or (not ((not C) or E))))),self_generated,5
+logic_dataset/images/00818.png,((E nand (not B)) nand ((not A) and (D xor C))),self_generated,5
+logic_dataset/images/00819.png,(D and ((not (C or (not A))) or (B or E))),self_generated,5
+logic_dataset/images/00820.png,((not ((not D) or C)) xor B),self_generated,3
+logic_dataset/images/00821.png,((C or (not A)) or B),self_generated,3
+logic_dataset/images/00822.png,((E or B) nand (C and D)),self_generated,4
+logic_dataset/images/00823.png,(C or E),self_generated,2
+logic_dataset/images/00824.png,((A xnor ((C xnor B) xnor E)) or D),self_generated,5
+logic_dataset/images/00825.png,((D nand (not E)) nand (A nor ((not C) and B))),self_generated,5
+logic_dataset/images/00826.png,(A and D),self_generated,2
+logic_dataset/images/00827.png,(A and (E nand (not (C xor B)))),self_generated,4
+logic_dataset/images/00828.png,(D or ((not (E nand A)) xnor ((not C) xnor B))),self_generated,5
+logic_dataset/images/00829.png,((not (((not B) xor (not D)) xor E)) xor A),self_generated,4
+logic_dataset/images/00830.png,(not (E or ((A or B) nand (not D)))),self_generated,4
+logic_dataset/images/00831.png,((not C) nand ((B or A) xnor E)),self_generated,4
+logic_dataset/images/00832.png,(not (D nand (not (A and (not ((not (B xor (not C))) nand (not E))))))),self_generated,5
+logic_dataset/images/00833.png,((not ((C xnor D) xor A)) or E),self_generated,4
+logic_dataset/images/00834.png,(E nor (not B)),self_generated,2
+logic_dataset/images/00835.png,((B and (not ((not (E or D)) nor A))) and C),self_generated,5
+logic_dataset/images/00836.png,(B xor (C xor (not A))),self_generated,3
+logic_dataset/images/00837.png,(B xor (not ((not (D and C)) nor A))),self_generated,4
+logic_dataset/images/00838.png,(A nand (not ((D and (not B)) and C))),self_generated,4
+logic_dataset/images/00839.png,((not B) xnor ((C and D) or (A and E))),self_generated,5
+logic_dataset/images/00840.png,(((not C) and (not B)) nand A),self_generated,3
+logic_dataset/images/00841.png,(((not D) nor B) nand E),self_generated,3
+logic_dataset/images/00842.png,((not (C nand ((not E) nor (not (D nand (not A)))))) xor B),self_generated,5
+logic_dataset/images/00843.png,(D xor ((not C) nand E)),self_generated,3
+logic_dataset/images/00844.png,((A xnor (not E)) nor (D xor (not (C xor B)))),self_generated,5
+logic_dataset/images/00845.png,((not ((not D) and (not (C nand A)))) nand (not E)),self_generated,4
+logic_dataset/images/00846.png,((not (B or D)) and (not (C xor E))),self_generated,4
+logic_dataset/images/00847.png,(((not D) or (E or B)) and (C xor A)),self_generated,5
+logic_dataset/images/00848.png,(C and D),self_generated,2
+logic_dataset/images/00849.png,((D nor E) xor (C nand B)),self_generated,4
+logic_dataset/images/00850.png,(((not A) xor B) or E),self_generated,3
+logic_dataset/images/00851.png,((not B) nor E),self_generated,2
+logic_dataset/images/00852.png,(not ((not A) nand B)),self_generated,2
+logic_dataset/images/00853.png,((not ((not B) or A)) xor (not (E xor (not C)))),self_generated,4
+logic_dataset/images/00854.png,(B xnor A),self_generated,2
+logic_dataset/images/00855.png,(((A xor B) nand C) nor E),self_generated,4
+logic_dataset/images/00856.png,((not B) nor (not (A xnor ((not C) xnor (E and D))))),self_generated,5
+logic_dataset/images/00857.png,((not B) nand ((not ((not E) nor (D xnor A))) and C)),self_generated,5
+logic_dataset/images/00858.png,(not (D or B)),self_generated,2
+logic_dataset/images/00859.png,((not (B or (E xor A))) nand (not (D and C))),self_generated,5
+logic_dataset/images/00860.png,(not ((not C) nor B)),self_generated,2
+logic_dataset/images/00861.png,(E xnor (not ((not (((not B) xor (not A)) xnor D)) xor C))),self_generated,5
+logic_dataset/images/00862.png,((not (E or (not B))) nor (A xnor (D or C))),self_generated,5
+logic_dataset/images/00863.png,(((not (A xor D)) nor E) xor C),self_generated,4
+logic_dataset/images/00864.png,((not (C nor (not E))) nor ((not D) and (not B))),self_generated,4
+logic_dataset/images/00865.png,((not (D or (not A))) or (E or (not B))),self_generated,4
+logic_dataset/images/00866.png,(((not E) xor (not B)) or C),self_generated,3
+logic_dataset/images/00867.png,((A xor (not (D or (C or B)))) nand (not E)),self_generated,5
+logic_dataset/images/00868.png,(not ((not ((E nor D) or (not C))) xnor A)),self_generated,4
+logic_dataset/images/00869.png,((not (C and (D nand E))) xnor (B nor A)),self_generated,5
+logic_dataset/images/00870.png,((not (B xor A)) nor E),self_generated,3
+logic_dataset/images/00871.png,(not ((E nand ((not C) nor B)) nor D)),self_generated,4
+logic_dataset/images/00872.png,(C nor (not ((not E) nor (B and (not A))))),self_generated,4
+logic_dataset/images/00873.png,((E nor A) and D),self_generated,3
+logic_dataset/images/00874.png,(((not A) nand E) nand (D nor B)),self_generated,4
+logic_dataset/images/00875.png,(((not E) xor (A xnor (not B))) nand (D xor (not C))),self_generated,5
+logic_dataset/images/00876.png,(((not B) and D) nand (not E)),self_generated,3
+logic_dataset/images/00877.png,((not B) xnor A),self_generated,2
+logic_dataset/images/00878.png,((C and D) or ((not E) or B)),self_generated,4
+logic_dataset/images/00879.png,(E xnor (A xor ((B xnor C) xnor D))),self_generated,5
+logic_dataset/images/00880.png,(not (C nand A)),self_generated,2
+logic_dataset/images/00881.png,(B nor (A or E)),self_generated,3
+logic_dataset/images/00882.png,(((not D) nor E) or A),self_generated,3
+logic_dataset/images/00883.png,((not ((not (D nor E)) or (not A))) xor (B xor (not C))),self_generated,5
+logic_dataset/images/00884.png,((not E) or (D nand (C and A))),self_generated,4
+logic_dataset/images/00885.png,((not (C nand E)) xor (A xnor ((not D) xor B))),self_generated,5
+logic_dataset/images/00886.png,((B nor A) nor ((not E) nand (C nor D))),self_generated,5
+logic_dataset/images/00887.png,(C nor (A nor B)),self_generated,3
+logic_dataset/images/00888.png,((not ((D and E) nor A)) nand C),self_generated,4
+logic_dataset/images/00889.png,(C xnor (not A)),self_generated,2
+logic_dataset/images/00890.png,(A or (not D)),self_generated,2
+logic_dataset/images/00891.png,(not (((not (A or (not B))) xor (not (C nor D))) nand E)),self_generated,5
+logic_dataset/images/00892.png,((not (C and (not D))) xor E),self_generated,3
+logic_dataset/images/00893.png,(A xnor (D or ((not B) or (not C)))),self_generated,4
+logic_dataset/images/00894.png,((not ((not B) nor D)) xor ((not E) nand (not C))),self_generated,4
+logic_dataset/images/00895.png,(A or (not (((not B) xor (D xnor E)) xor C))),self_generated,5
+logic_dataset/images/00896.png,(B nor (not (C xnor A))),self_generated,3
+logic_dataset/images/00897.png,((C nor D) nand (B and E)),self_generated,4
+logic_dataset/images/00898.png,(E and (not B)),self_generated,2
+logic_dataset/images/00899.png,(not ((not E) xor A)),self_generated,2
+logic_dataset/images/00900.png,((not ((not (C nor B)) xor (A xnor E))) nand D),self_generated,5
+logic_dataset/images/00901.png,((not B) nor (not C)),self_generated,2
+logic_dataset/images/00902.png,((not C) or D),self_generated,2
+logic_dataset/images/00903.png,((not (B and C)) and (A or D)),self_generated,4
+logic_dataset/images/00904.png,(C and (not A)),self_generated,2
+logic_dataset/images/00905.png,((C xor (not A)) or (B nand (not D))),self_generated,4
+logic_dataset/images/00906.png,((not ((not B) or D)) xnor E),self_generated,3
+logic_dataset/images/00907.png,(not ((not ((B nor E) xor A)) and (C xor D))),self_generated,5
+logic_dataset/images/00908.png,(A nor ((D nor B) xnor (not (C and E)))),self_generated,5
+logic_dataset/images/00909.png,(A nor D),self_generated,2
+logic_dataset/images/00910.png,(D nand B),self_generated,2
+logic_dataset/images/00911.png,(B and (not A)),self_generated,2
+logic_dataset/images/00912.png,(D or (not B)),self_generated,2
+logic_dataset/images/00913.png,((not ((not B) nor C)) nor (A or ((not E) and D))),self_generated,5
+logic_dataset/images/00914.png,(((not E) and (not ((not B) and (D and (not C))))) nor (not A)),self_generated,5
+logic_dataset/images/00915.png,(((not D) or (not B)) nor A),self_generated,3
+logic_dataset/images/00916.png,(E and ((not C) xor B)),self_generated,3
+logic_dataset/images/00917.png,(not ((not E) or B)),self_generated,2
+logic_dataset/images/00918.png,((not ((not E) xnor A)) xor B),self_generated,3
+logic_dataset/images/00919.png,(B xnor (not ((not A) nand (not C)))),self_generated,3
+logic_dataset/images/00920.png,(E xnor (not ((A or (not D)) xnor (not B)))),self_generated,4
+logic_dataset/images/00921.png,(C xnor (not ((E xor D) xor A))),self_generated,4
+logic_dataset/images/00922.png,((A nand (not ((C nand B) and D))) xor E),self_generated,5
+logic_dataset/images/00923.png,(D xor ((E and A) and B)),self_generated,4
+logic_dataset/images/00924.png,((not B) xnor C),self_generated,2
+logic_dataset/images/00925.png,((not ((not (C and (not E))) and (A and D))) or B),self_generated,5
+logic_dataset/images/00926.png,((D nand C) xor E),self_generated,3
+logic_dataset/images/00927.png,(((not B) or A) and (C nor D)),self_generated,4
+logic_dataset/images/00928.png,((not D) or ((A xnor (not C)) xor E)),self_generated,4
+logic_dataset/images/00929.png,(A or (not E)),self_generated,2
+logic_dataset/images/00930.png,(((A or (not E)) nor D) xnor ((not C) nor B)),self_generated,5
+logic_dataset/images/00931.png,((((not D) or A) xnor (C nand E)) nand B),self_generated,5
+logic_dataset/images/00932.png,((B nor C) and (not (E or ((not D) or A)))),self_generated,5
+logic_dataset/images/00933.png,(B nand (not ((not ((A xnor E) or C)) and D))),self_generated,5
+logic_dataset/images/00934.png,((not D) xnor E),self_generated,2
+logic_dataset/images/00935.png,(not ((C xnor B) or (A or (D xor E)))),self_generated,5
+logic_dataset/images/00936.png,(C and ((not (A or B)) xor E)),self_generated,4
+logic_dataset/images/00937.png,((not ((E nor D) nand (not ((not B) xor C)))) xnor A),self_generated,5
+logic_dataset/images/00938.png,(((not B) xnor E) and D),self_generated,3
+logic_dataset/images/00939.png,(((D nor (not A)) and ((not C) and E)) nor B),self_generated,5
+logic_dataset/images/00940.png,(not ((not (B or D)) xnor (not (C or E)))),self_generated,4
+logic_dataset/images/00941.png,(((not C) or D) nand E),self_generated,3
+logic_dataset/images/00942.png,(C nor (not A)),self_generated,2
+logic_dataset/images/00943.png,(E or (not (C and (D and A)))),self_generated,4
+logic_dataset/images/00944.png,((not (E nand (not B))) nor (D or C)),self_generated,4
+logic_dataset/images/00945.png,((E nand A) xnor (not ((not (D nor (not C))) nor (not B)))),self_generated,5
+logic_dataset/images/00946.png,(D nor (not E)),self_generated,2
+logic_dataset/images/00947.png,((not (D nor C)) and (E xor A)),self_generated,4
+logic_dataset/images/00948.png,((not C) or B),self_generated,2
+logic_dataset/images/00949.png,((A and C) or (not E)),self_generated,3
+logic_dataset/images/00950.png,(not (B or E)),self_generated,2
+logic_dataset/images/00951.png,((not (A nor E)) xor (C xor ((not D) nand (not B)))),self_generated,5
+logic_dataset/images/00952.png,(not ((D or ((not (B nand (not E))) nor (not A))) and C)),self_generated,5
+logic_dataset/images/00953.png,(((not D) nor ((not E) and B)) nor (not (A xor C))),self_generated,5
+logic_dataset/images/00954.png,(B xor (C xnor A)),self_generated,3
+logic_dataset/images/00955.png,((B or (D nor A)) xor C),self_generated,4
+logic_dataset/images/00956.png,(B nor (not (E nand C))),self_generated,3
+logic_dataset/images/00957.png,(E xnor ((not C) or (not B))),self_generated,3
+logic_dataset/images/00958.png,(not (B nand ((not E) or ((not C) or A)))),self_generated,4
+logic_dataset/images/00959.png,(not (((not D) xor C) or (A and (not B)))),self_generated,4
+logic_dataset/images/00960.png,(E nand (not (D and A))),self_generated,3
+logic_dataset/images/00961.png,((B nand (not D)) nor (E or A)),self_generated,4
+logic_dataset/images/00962.png,(C nor (E xnor B)),self_generated,3
+logic_dataset/images/00963.png,(A or (E nor (not (D nand C)))),self_generated,4
+logic_dataset/images/00964.png,(E xor (not ((not D) xnor (A nor (not B))))),self_generated,4
+logic_dataset/images/00965.png,(C xnor (not (E nor (not D)))),self_generated,3
+logic_dataset/images/00966.png,((C xor D) nor E),self_generated,3
+logic_dataset/images/00967.png,((C and D) xnor B),self_generated,3
+logic_dataset/images/00968.png,(E and D),self_generated,2
+logic_dataset/images/00969.png,((B nand D) nand (E and ((not C) nand A))),self_generated,5
+logic_dataset/images/00970.png,(E nand (not (C nor A))),self_generated,3
+logic_dataset/images/00971.png,((not (A xnor E)) or B),self_generated,3
+logic_dataset/images/00972.png,(not (E nor A)),self_generated,2
+logic_dataset/images/00973.png,((not (C or (not E))) nor (A xor (D and B))),self_generated,5
+logic_dataset/images/00974.png,(((not D) nor E) xnor (B xor A)),self_generated,4
+logic_dataset/images/00975.png,((E xnor (not (D and B))) nand (not ((not C) and A))),self_generated,5
+logic_dataset/images/00976.png,(A nor E),self_generated,2
+logic_dataset/images/00977.png,(E and ((not ((B xor C) xnor D)) nand (not A))),self_generated,5
+logic_dataset/images/00978.png,((not (E xnor C)) or ((not D) xnor (not B))),self_generated,4
+logic_dataset/images/00979.png,((D xor (B nand (not A))) nand (E xnor C)),self_generated,5
+logic_dataset/images/00980.png,((not C) or (not E)),self_generated,2
+logic_dataset/images/00981.png,(B nand (not ((not D) nor (E and (not A))))),self_generated,4
+logic_dataset/images/00982.png,((not (A nor (not B))) nor (not ((E nand D) xor C))),self_generated,5
+logic_dataset/images/00983.png,(A nor (not ((C xor (D nand E)) xnor B))),self_generated,5
+logic_dataset/images/00984.png,((not D) and (E xnor (C xnor (not B)))),self_generated,4
+logic_dataset/images/00985.png,((not (D and (not (E nor C)))) nor (not A)),self_generated,4
+logic_dataset/images/00986.png,(not ((C or (not E)) or (A nand B))),self_generated,4
+logic_dataset/images/00987.png,(not (A nand (not (B xnor D)))),self_generated,3
+logic_dataset/images/00988.png,((E and B) and C),self_generated,3
+logic_dataset/images/00989.png,(C and ((not (E xnor (not A))) or D)),self_generated,4
+logic_dataset/images/00990.png,((not B) and ((not (E nand (not A))) and (D and C))),self_generated,5
+logic_dataset/images/00991.png,((not (B nand E)) nand (not ((C and D) xor A))),self_generated,5
+logic_dataset/images/00992.png,((not ((not D) or (not B))) or ((not (A xnor E)) nor C)),self_generated,5
+logic_dataset/images/00993.png,(B and (A xnor (E nand C))),self_generated,4
+logic_dataset/images/00994.png,((not (((not D) or E) and C)) or A),self_generated,4
+logic_dataset/images/00995.png,((E xnor (A and (not B))) xnor (not (D and C))),self_generated,5
+logic_dataset/images/00996.png,((B xor C) or A),self_generated,3
+logic_dataset/images/00997.png,((A xnor (not (D or C))) or (B and (not E))),self_generated,5
+logic_dataset/images/00998.png,(not (((not C) nand B) nand D)),self_generated,3
+logic_dataset/images/00999.png,(not ((not ((not B) and D)) xnor (C nand (not E)))),self_generated,4
