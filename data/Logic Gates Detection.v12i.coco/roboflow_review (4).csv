@@ -10,7 +10,7 @@ Logic-Gates-Detection-12/train/82_png.rf.a7001159afdc69246ef756b99f0ebb9d.jpg,re
 Logic-Gates-Detection-12/train/11_png.rf.bd04392f4f955827480428347e6b2f07.jpg,rejected,,not_single_output
 Logic-Gates-Detection-12/train/94_png.rf.4273579926601b733c3b27a218c7a644.jpg,rejected,,not_single_output
 Logic-Gates-Detection-12/train/33_png.rf.aab5f0c3c007e39229b7972dfad16bd8.jpg,rejected,,not_single_output
-Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-44-34-PM-12-54-25-PM_png.rf.cd83a7a237ca25f85fbe8cd93ca76ab0.jpg,labeled,((A and (not B)) or (B and (not A)),
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-44-34-PM-12-54-25-PM_png.rf.cd83a7a237ca25f85fbe8cd93ca76ab0.jpg,labeled,((A and (not B)) or (B and (not A))),
 Logic-Gates-Detection-12/train/85_png.rf.0803c72155c7aa88d9da9cc01c3d1107.jpg,rejected,,bad_quality
 Logic-Gates-Detection-12/train/129_png.rf.62d65f7c31d95c3bc228a387551ec094.jpg,rejected,,missing_labels
 Logic-Gates-Detection-12/train/WhatsApp-Image-2023-09-05-at-13-08-22_jpeg.rf.aa216e68ae0e7ab58000ea0b4dc3a936.jpg,rejected,,not_single_output
@@ -200,7 +200,7 @@ Logic-Gates-Detection-12/train/77_png.rf.85ec47a41d281f365b55cfadecf5f54d.jpg,la
 Logic-Gates-Detection-12/train/76_png.rf.7cbff6dfc64baf521ec7a8af086f4077.jpg,rejected,,missing_labels
 Logic-Gates-Detection-12/train/41_png.rf.ac9368d1c4ba84e1b20046c61b8644c5.jpg,rejected,,not_single_output
 Logic-Gates-Detection-12/train/139_png.rf.fee6c5b09a6e254b7365148b2edf013f.jpg,rejected,,not_single_output
-Logic-Gates-Detection-12/train/Screenshot-2023-12-04-at-21-15-32_png.rf.0afbee6cb87ed7f5098f1f886c4d3fcc.jpg,labeled,((A xnor B) nor (C xnor D),
+Logic-Gates-Detection-12/train/Screenshot-2023-12-04-at-21-15-32_png.rf.0afbee6cb87ed7f5098f1f886c4d3fcc.jpg,labeled,((A xnor B) nor (C xnor D)),
 Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-44-30-PM-12-54-24-PM_png.rf.d2bb7621c5f67ed07e5af6786b69cbef.jpg,rejected,,missing_labels
 Logic-Gates-Detection-12/train/17_png.rf.6150d8b9a82954f163944ba84650490d.jpg,rejected,,not_single_output
 Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-43-47-PM-12-54-24-PM_png.rf.96e68a4ef3e39e5be523834eb6401c80.jpg,labeled,(A nor B),
