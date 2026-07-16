@@ -1,0 +1,1 @@
+Accepted: 61  |  Rejected total: 148  |  Bad Quality: 44  |  Missing Labels: 58  |  Not 1 Output: 46  |  Reviewed: 209  |  Remaining: 0
