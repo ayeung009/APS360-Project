@@ -1,0 +1,63 @@
+Category,Metric,Value
+General,Total Images,1000
+General,Unique Expressions,1000
+Input Distribution,1 Inputs,5
+Input Distribution,2 Inputs,205
+Input Distribution,3 Inputs,242
+Input Distribution,4 Inputs,285
+Input Distribution,5 Inputs,263
+Gate Frequency,and,449
+Gate Frequency,or,460
+Gate Frequency,xor,408
+Gate Frequency,nand,426
+Gate Frequency,nor,411
+Gate Frequency,xnor,442
+Gate Frequency,not,1640
+Circuit Complexity,1 Gates,75
+Circuit Complexity,2 Gates,139
+Circuit Complexity,3 Gates,174
+Circuit Complexity,4 Gates,172
+Circuit Complexity,5 Gates,178
+Circuit Complexity,6 Gates,123
+Circuit Complexity,7 Gates,86
+Circuit Complexity,8 Gates,39
+Circuit Complexity,9 Gates,10
+Circuit Complexity,10 Gates,3
+Circuit Complexity,11 Gates,1
+NOT Distribution,0 NOT Gates,166
+NOT Distribution,1 NOT Gates,337
+NOT Distribution,2 NOT Gates,281
+NOT Distribution,3 NOT Gates,146
+NOT Distribution,4 NOT Gates,52
+NOT Distribution,5 NOT Gates,14
+NOT Distribution,6 NOT Gates,3
+NOT Distribution,7 NOT Gates,1
+Expression Length,4 Tokens,5
+Expression Length,5 Tokens,70
+Expression Length,8 Tokens,93
+Expression Length,9 Tokens,46
+Expression Length,11 Tokens,40
+Expression Length,12 Tokens,95
+Expression Length,13 Tokens,39
+Expression Length,14 Tokens,2
+Expression Length,15 Tokens,77
+Expression Length,16 Tokens,82
+Expression Length,17 Tokens,11
+Expression Length,18 Tokens,22
+Expression Length,19 Tokens,94
+Expression Length,20 Tokens,62
+Expression Length,21 Tokens,2
+Expression Length,22 Tokens,51
+Expression Length,23 Tokens,70
+Expression Length,25 Tokens,15
+Expression Length,26 Tokens,71
+Expression Length,28 Tokens,4
+Expression Length,29 Tokens,35
+Expression Length,32 Tokens,10
+Expression Length,35 Tokens,3
+Expression Length,38 Tokens,1
+Variable Usage,A,701
+Variable Usage,B,731
+Variable Usage,C,740
+Variable Usage,D,712
+Variable Usage,E,712
