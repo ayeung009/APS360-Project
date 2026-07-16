@@ -1,0 +1,84 @@
+Generating logic circuit dataset...
+100%|██████████| 1000/1000 [01:43<00:00,  9.67it/s]
+DATASET STATISTICS
+Total Images        : 1000
+Unique Expressions  : 1000
+
+Input Distribution
+  1 Inputs : 5
+  2 Inputs : 205
+  3 Inputs : 242
+  4 Inputs : 285
+  5 Inputs : 263
+
+Gate Frequencies
+  and  : 449
+  or   : 460
+  xor  : 408
+  nand : 426
+  nor  : 411
+  xnor : 442
+  not  : 1640
+
+Circuit Complexity
+  1 Gates : 75
+  2 Gates : 139
+  3 Gates : 174
+  4 Gates : 172
+  5 Gates : 178
+  6 Gates : 123
+  7 Gates : 86
+  8 Gates : 39
+  9 Gates : 10
+  10 Gates : 3
+  11 Gates : 1
+
+NOT Gate Distribution
+  0 NOT Gates : 166
+  1 NOT Gates : 337
+  2 NOT Gates : 281
+  3 NOT Gates : 146
+  4 NOT Gates : 52
+  5 NOT Gates : 14
+  6 NOT Gates : 3
+  7 NOT Gates : 1
+
+Expression Length
+  4 Tokens : 5
+  5 Tokens : 70
+  8 Tokens : 93
+  9 Tokens : 46
+  11 Tokens : 40
+  12 Tokens : 95
+  13 Tokens : 39
+  14 Tokens : 2
+  15 Tokens : 77
+  16 Tokens : 82
+  17 Tokens : 11
+  18 Tokens : 22
+  19 Tokens : 94
+  20 Tokens : 62
+  21 Tokens : 2
+  22 Tokens : 51
+  23 Tokens : 70
+  25 Tokens : 15
+  26 Tokens : 71
+  28 Tokens : 4
+  29 Tokens : 35
+  32 Tokens : 10
+  35 Tokens : 3
+  38 Tokens : 1
+
+Variable Usage
+  A: 701
+  B: 731
+  C: 740
+  D: 712
+  E: 712
+
+Statistics saved to: logic_dataset/dataset_stats.csv
+
+Dataset complete!
+Generated 1000 unique circuits
+Images saved to: logic_dataset/images
+Labels saved to: logic_dataset/labels.csv
