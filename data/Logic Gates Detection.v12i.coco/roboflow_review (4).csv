@@ -1,0 +1,210 @@
+image_path,status,expression,reject_reason
+Logic-Gates-Detection-12/train/Screenshot-2023-12-04-at-21-15-39_png.rf.82d660e0971f8ddbe182f72d64fb94ca.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/138_png.rf.21051f60f0fb0e448e7a128e9865e979.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/136_png.rf.d78e848ac988fae6e49ee9dc922af42f.jpg,labeled,((A xor B) xor C),
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-43-41-PM-12-54-24-PM_png.rf.cba4c134df7f3cd69bc4f99937e68228.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/113_png.rf.e4f73b53a21280709bfb6a69fd98b761.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-45-01-PM-12-54-24-PM_png.rf.a21be03d33e9523a059b023d9446e9af.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/14_png.rf.d9f91753649238aceabcbe29b0609609.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/82_png.rf.a7001159afdc69246ef756b99f0ebb9d.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/11_png.rf.bd04392f4f955827480428347e6b2f07.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/94_png.rf.4273579926601b733c3b27a218c7a644.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/33_png.rf.aab5f0c3c007e39229b7972dfad16bd8.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-44-34-PM-12-54-25-PM_png.rf.cd83a7a237ca25f85fbe8cd93ca76ab0.jpg,labeled,((A and (not B)) or (B and (not A)),
+Logic-Gates-Detection-12/train/85_png.rf.0803c72155c7aa88d9da9cc01c3d1107.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/129_png.rf.62d65f7c31d95c3bc228a387551ec094.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/WhatsApp-Image-2023-09-05-at-13-08-22_jpeg.rf.aa216e68ae0e7ab58000ea0b4dc3a936.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-48-36-PM-12-54-25-PM_png.rf.1f4e0c90e504de169c3b9bcb1254c555.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/WhatsApp-Image-2023-12-02-at-19-15-54_jpeg.rf.cd2510f780de4c3840dc8563ac38acb5.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/135_png.rf.f4640dcb32ca681a7dee5fe24161838f.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/3_png.rf.3afa0463381865916715447a8f17e903.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/9_png.rf.f43d54911438a0162e55a83fe8ec6f60.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/134_png.rf.630630eba891ce465cce91d9cedebcc5.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-46-24-PM-12-54-25-PM_png.rf.a5579e9756efc8a4d028bb440169515f.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/WhatsApp-Image-2023-12-01-at-17-57-46_jpeg.rf.1a523dc299d60f200c4a75dbbb3f0b55.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-46-27-PM-12-54-24-PM_png.rf.53a5dec1ced82c882d991ea71482775c.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-43-22-PM-12-54-25-PM_png.rf.e4a2abb34957f15492b7f2fc05c2b27c.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/WhatsApp-Image-2023-12-02-at-18-48-42_jpeg.rf.fbc3b89159cb1784859a6e1f75140dc5.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/78_png.rf.6cfb7aa0a3ee12591af47c231053ed27.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/119_png.rf.d140aea7a8d5c0a40a5c21aaca36b037.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/Screenshot-2023-12-03-at-09-54-38_png.rf.68ea3953db80eaec07bba9d0a88d4c91.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-45-52-PM-12-54-25-PM_png.rf.f5d3a925b5633d9744de8588ac0b1d55.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-50-44-PM-12-54-25-PM_png.rf.6a4069be76c1ccfcc55298ca36f135f9.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/102_png.rf.c959f702766f444dc1653a48a24863a8.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/WhatsApp-Image-2023-09-05-at-13-05-46_jpeg.rf.00b874f40b79d72485db4f99c06d9774.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/42_png.rf.c57cf2f13161e5795c40e8be045276e3.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-46-11-PM-12-54-24-PM_png.rf.2f83730cef52822eb7312631501991e2.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-48-11-PM-12-54-24-PM_png.rf.81d0d12d0cd55421c0af0a34ff40f345.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/WhatsApp-Image-2023-09-05-at-13-04-52_jpeg.rf.76c53e89f4fbc3c388efd54bb66fad84.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/35_png.rf.4ebb0245ae611430f3bb99c30517394d.jpg,labeled,((A or B) and (C or D) and (B or D)),
+Logic-Gates-Detection-12/train/WhatsApp-Image-2023-12-02-at-19-19-29_jpeg.rf.80dd8e9eecfd4a05c5518f0a1c4bf079.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-48-49-PM-12-54-25-PM_png.rf.e53229a1907c1941c0846069eeba4c59.jpg,labeled,(A or B),
+Logic-Gates-Detection-12/train/127_png.rf.504793f136c0c5c7cc5080f58c8bc9f5.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/WhatsApp-Image-2023-09-04-at-07-17-56_jpeg.rf.dd8259e8fb7b940b5e22a08869cffb42.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/34_png.rf.2f5da28ba4f69453b10dfa40d5da1a04.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/Screenshot-2023-12-04-at-21-15-48_png.rf.ab8f69acf7c5711cbf10be39626e5f49.jpg,labeled,(A xnor B),
+Logic-Gates-Detection-12/train/61_png.rf.c970bde21f6325701a515a1d4ade3313.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/58_png.rf.d4b9e8dff25b6dcd19f26ddde0374814.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/25_png.rf.c24e25a33937597cce11402796acdadb.jpg,labeled,(A or ((A and B) and C) or (A and B)),
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-45-43-PM-12-54-24-PM_png.rf.8eab76d40a6f4c93e2b606ad1236c0eb.jpg,labeled,(A nand B),
+Logic-Gates-Detection-12/train/20_png.rf.c8ac9992333df6e400cc3723462383eb.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/WhatsApp-Image-2023-12-02-at-18-35-19-1-copy_jpeg.rf.8e615a0aadcdb94f0c29822fae792e15.jpg,labeled,((A xnor B) xnor (C xnor D)),
+Logic-Gates-Detection-12/train/106_png.rf.57efe8d185c2f7c5bae54946d600c4b3.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/84_png.rf.a223752bf6a7db90b62e1cb926198abd.jpg,labeled,((B and D) or (B and C) or (A and D)),
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-47-00-PM-12-54-24-PM_png.rf.f1bf478ea914bbdc155521e598fdd826.jpg,labeled,(A nand B),
+Logic-Gates-Detection-12/train/63_png.rf.44ac4d5a2b450dfe865edfdfdb1ab696.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/57_png.rf.87527be0a426b5a4c0ac9769cdd13e03.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/24_png.rf.df06d8caaa7856df496534e7d0f2c445.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/WhatsApp-Image-2023-12-01-at-20-52-08-copy-2_jpeg.rf.4d3d3a6d2bc9a5b2568916c0aebf0a1b.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/Screenshot-2023-12-03-at-09-06-48_png.rf.bd9e857cf0f104ad6916b37f81aea7a4.jpg,labeled,((A xor B) xor (C xor D)),
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-50-06-PM-12-54-25-PM_png.rf.9878fa1ccdacea407531746a1a8b87a7.jpg,labeled,(A xor B),
+Logic-Gates-Detection-12/train/36_png.rf.a0491b52b2dc6cc834ca13d017861019.jpg,labeled,((A xor B) xor C),
+Logic-Gates-Detection-12/train/Screenshot-2023-12-04-at-21-16-37_png.rf.c088284f3bf312810964386fbb9d7184.jpg,labeled,(A xor B),
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-48-21-PM-12-54-24-PM_png.rf.08523b48ebcf4c19778fc1e1b0756189.jpg,labeled,(not A),
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-44-21-PM-12-54-24-PM_png.rf.4985e915f9c80baa078ac1b8187f6bc0.jpg,labeled,(A nor B),
+Logic-Gates-Detection-12/train/69_png.rf.af2ec288085aef77f5cfce0f3cc1f214.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/115_png.rf.aa478c0d72e945ffaed712f10379f1fa.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/105_png.rf.3cf2f04eb47e4c3c54ae5311149b4dd1.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/64_png.rf.5a385c0fc273d413b64fd58e6c0aef66.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/109_png.rf.d95f3af23d7b2a7d3b590885dc421429.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/Screenshot-2023-12-04-at-21-17-00_png.rf.7962b106bf0af66f5a51a8abde56e449.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/75_png.rf.daced746c3d5232dadc253804b16b1f2.jpg,labeled,(A nor (B nor C)),
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-44-07-PM-12-54-25-PM_png.rf.7f91417d5299113c0d93f3989c2b2797.jpg,labeled,(A nand B),
+Logic-Gates-Detection-12/train/30_png.rf.9d403649ab36d1a3f409fff367a6a75b.jpg,labeled,(A nor (B nor C)),
+Logic-Gates-Detection-12/train/26_png.rf.8c52e48728ea82e9087c79e673f202d3.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/112_png.rf.349926eda20ecfa99d74e73d7a975e91.jpg,labeled,((A xnor B) xnor (C xnor D)),
+Logic-Gates-Detection-12/train/120_png.rf.b3d32f400c0939102b29d508222af7dd.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/WhatsApp-Image-2023-09-04-at-06-06-06_jpeg.rf.f58da152c9546c0aa9ebb9ca06077e2d.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/38_png.rf.419a69884e84c90b62069190235e75b0.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/37_png.rf.e8f0437978e0ecf6c7091c657d5c421a.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-50-11-PM-12-54-25-PM_png.rf.2a3ddaf2d49f7007a5356c8ff32d9c24.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/131_png.rf.1c8be9b12a30fae4a6ca3fdeacc9d9ee.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/19_png.rf.bcb5384bb4e31991a51ffb1072368008.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/5_png.rf.f74a18c58e1add3bae0694c7a8df29a2.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/WhatsApp-Image-2023-09-04-at-06-05-53_jpeg.rf.c4999e5072b38e782f5210f236597ca9.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-43-28-PM-12-54-25-PM_png.rf.31deea0009cc561f21faf95b51f2d155.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-48-15-PM-12-54-24-PM_png.rf.0a6f90c791be3dc4906be44236e41e07.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/WhatsApp-Image-2023-09-05-at-13-06-11_jpeg.rf.72ece7982078ca2aa07aee5b879e4c62.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-47-28-PM-12-54-25-PM_png.rf.784f47b8c40c2d0331d013c92534b7a1.jpg,labeled,(A nand B),
+Logic-Gates-Detection-12/train/Screenshot-2023-12-03-at-09-06-39_png.rf.e34aea9b0d28aa0fc3bfaa081c4c39b7.jpg,labeled,((A xnor B) xnor (C xnor D)),
+Logic-Gates-Detection-12/train/15_png.rf.c133728cdc85a355759276201c66a698.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/Screenshot-2023-12-04-at-21-16-17_png.rf.04ef58841a5fdf7045a116212236c4d6.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/Screenshot-2023-12-04-at-21-15-55_png.rf.b5b341f55264df228e0c43322534c159.jpg,labeled,(A xnor B),
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-45-09-PM-12-54-25-PM_png.rf.1eb6949b1e9934f79c1be032f2951a2c.jpg,labeled,(not A),
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-46-54-PM-12-54-24-PM_png.rf.9ae2d1736e4fdc8e65e369ea77ba8ef8.jpg,labeled,(A nor B),
+Logic-Gates-Detection-12/train/WhatsApp-Image-2023-12-01-at-19-05-06_jpeg.rf.76439a13d1fcd004bcdf12aa1829d35e.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/123_png.rf.92292422d43890aa3529207bd87f2a95.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/Screenshot-2023-12-03-at-09-55-12_png.rf.05c9abc5e94e2f74e56727fe893d9b34.jpg,labeled,((A xor B) xor (C xor D)),
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-50-40-PM-12-54-25-PM_png.rf.037ae78556271623ad74550fa2527c27.jpg,labeled,(A or B),
+Logic-Gates-Detection-12/train/23_png.rf.40e79ebae4b12ff448ed1ead886b99f9.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-44-15-PM-12-54-24-PM_png.rf.148374bae13b8d4e58d0bf74f1d700f2.jpg,labeled,(A xor B),
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-45-23-PM-12-54-24-PM_png.rf.947b915bb77e69553ada8da7a4368109.jpg,labeled,(A nor B),
+Logic-Gates-Detection-12/train/WhatsApp-Image-2023-09-04-at-06-03-56_jpeg.rf.60c025eb0901d017eeb72bdb7c8e5dc2.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-49-11-PM-12-54-25-PM_png.rf.7203498eeaed203db3b226ad9eca10bf.jpg,labeled,(A xnor B),
+Logic-Gates-Detection-12/train/73_png.rf.77ab544d3068eed701e321fe6c954afb.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/Screenshot-2023-12-03-at-09-03-48_png.rf.758c05a7b657bb4527df45df77dd32ee.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/110_png.rf.f33150843ffd8d57f70f0f4a722931a3.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/40_png.rf.8056207ab8234633649475231b90d430.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/4_png.rf.ceb7f0fd676688609313bd0a13871571.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/128_png.rf.0087e82f74e177d857dcdabefb9c497b.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/21_png.rf.f402220bc5ffb1f8e3ca85f5e69287a9.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/Screenshot-2023-12-04-at-21-15-21_png.rf.3b977a919c52b5387f963001d77b9a87.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/28_png.rf.94c00e5a212457c1f2289ed64cbc5d89.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/132_png.rf.d41f5415a82798ce584fed3e2fb2772c.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/91_png.rf.defe7291d0b2cfaebbf4aa42ac8bc4e6.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/WhatsApp-Image-2023-12-01-at-19-05-05_jpeg.rf.fa5400a04e9caf095ade38604bf1b644.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/50_png.rf.10b71543c7bfb6ea8996038f8468d358.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-47-58-PM-12-54-25-PM_png.rf.d7c7a848647df39c94a324b6d17b3c9d.jpg,labeled,(A xor B),
+Logic-Gates-Detection-12/train/Screenshot-2023-12-04-at-21-15-06_png.rf.13ff9ffd3d9b9bfc981ce41b581efcba.jpg,labeled,((A xor B) xor (C xor D)),
+Logic-Gates-Detection-12/train/Screenshot-2023-12-03-at-09-36-45_png.rf.54ad260d95c872e246e42c1770d4bf74.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-45-33-PM-12-54-25-PM_png.rf.c1dab9dee14c521bff9440492cfe720a.jpg,labeled,(A or B),
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-47-37-PM-12-54-24-PM_png.rf.5eabb2b8874d21e282c31958cf427597.jpg,labeled,(A nor B),
+Logic-Gates-Detection-12/train/WhatsApp-Image-2023-12-01-at-20-52-08-copy_jpeg.rf.dbd64e6905d2713d86120f90977114cb.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/22_png.rf.39948dfa21d21f064ec9d95b3713cd9a.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/WhatsApp-Image-2023-12-02-at-18-43-29_jpeg.rf.1d2de8f3acb5e38618499fcff8079f31.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/114_png.rf.4454918087846b84785fa7a87ccff079.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/125_png.rf.c68fc138b938c640870d60c9592aa1e8.jpg,labeled,((A nor B) nor C),
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-50-16-PM-12-54-25-PM_png.rf.6b13935381b67c3e0dcca03de11664ca.jpg,labeled,(A nor B),
+Logic-Gates-Detection-12/train/Screenshot-2023-12-03-at-09-55-02_png.rf.02ae67351b440c42cb4b96e1c6458df4.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/98_png.rf.067ae11815b091c23dbdd16fb706d41c.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/45_png.rf.30a5d8f05f631d3687e8aab8dfaa4807.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/WhatsApp-Image-2023-09-04-at-06-04-57_jpeg.rf.53e9d1a76af1033df184898f0204d354.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/116_png.rf.fcdb465b88f7ae4050dc9dd5240c5aec.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/117_png.rf.d8eaa5978c52f83f44a03549590c0031.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/18_png.rf.716ab4eb692d6bb0471286e43793ff9d.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/WhatsApp-Image-2023-12-02-at-18-35-19-1-_jpeg.rf.9d2646a0b79de7d6172f2b363e601387.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/Screenshot-2023-12-04-at-21-16-30_png.rf.240747d4cbf77fed81f93d094c9f72f7.jpg,labeled,(A xor B),
+Logic-Gates-Detection-12/train/118_png.rf.a536600662eb95d6eeb6799b60e4de19.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-48-53-PM-12-54-24-PM_png.rf.413d5607a2cff11a7e995650bfe067e3.jpg,labeled,(not A),
+Logic-Gates-Detection-12/train/Screenshot-2023-12-03-at-09-03-52_png.rf.b7e32b92310e15587b952745cc785459.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-45-29-PM-12-54-25-PM_png.rf.386d2adb5ae355163bdb55603ced90dd.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/46_png.rf.d17de5678a9c9e61381598db87c9cb4c.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/WhatsApp-Image-2023-12-01-at-20-04-51_jpeg.rf.7e1a381f5c0fe9fc8132e66b6cc8b0ae.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/108_png.rf.0fcd5a6bbc482877b1bfd998e059799e.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/124_png.rf.fad06636818a5856692fe6d25cb2f12f.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-48-56-PM-12-54-25-PM_png.rf.6876981bb6eca66c59acf83b12e49f64.jpg,labeled,(A and B),
+Logic-Gates-Detection-12/train/WhatsApp-Image-2023-12-01-at-18-00-31_jpeg.rf.71c7c921fb8d5c0f65d4796e87e00fd5.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/79_png.rf.177e7929247314f998ec291218ae5c83.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/43_png.rf.f9d3c5915d8da1f9409222ccb1259180.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/WhatsApp-Image-2023-12-02-at-18-48-32_jpeg.rf.5daef3ec7b7d5b9168c7f18caa5a4c4d.jpg,labeled,((A xor B) xor (C xor D)),
+Logic-Gates-Detection-12/train/Screenshot-2023-12-04-at-21-16-11_png.rf.c8c1b3f7ce622d10a77f64077ef4edb2.jpg,labeled,((A xor B) xor (C xor D)),
+Logic-Gates-Detection-12/train/52_png.rf.ee5292ed1720741beaf39cacf8e43d1c.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/6_png.rf.0cebfc8ff10b89da98c48ddcfe822ec0.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/107_png.rf.b5ba55d298942a189bd77a2de7774fb2.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/111_png.rf.636fe6a77fa4807410d9d03d405895ae.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/97_png.rf.f95e5d8f04a46219ed8e0749ef4c9f85.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-47-54-PM-12-54-25-PM_png.rf.d29423598d2c4789efb1868c2f09844d.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-47-24-PM-12-54-24-PM_png.rf.7343b65e8f703f15a1cfa6f1bd8b91bd.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/96_png.rf.2c6b8247c841826ca25002b94bf4c250.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/126_png.rf.b916fdb5f56bd6ffd4169555adb558d3.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-44-44-PM-12-54-24-PM_png.rf.9af7a68943b44b07ccef5a9256a32987.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/WhatsApp-Image-2023-12-02-at-18-35-19_jpeg.rf.5f0e0f93be7811dba7a54234b9cec7a1.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/100_png.rf.bebe9c7d4df8917e7feff6f188afc302.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/122_png.rf.685f96719ad5da7a851310bd80258f1d.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-45-04-PM-12-54-25-PM_png.rf.2bda917b8d13851327cf04f0b5604820.jpg,labeled,(A and B),
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-47-21-PM-12-54-24-PM_png.rf.7314d8074dd776049fdc4c95342edc39.jpg,labeled,(A and B),
+Logic-Gates-Detection-12/train/1_png.rf.f4abfd88789f15951893e4f977c2cb36.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-50-29-PM-12-54-25-PM_png.rf.e873f2d2b1dbc83bdf5005d102a031c2.jpg,labeled,(not A),
+Logic-Gates-Detection-12/train/133_png.rf.ad1fe8821ab872caa5a7b7e197c38d57.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/137_png.rf.d876df51db661277e8fbdda54d325c4d.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/80_png.rf.e75d970796006639b20162f32c839eb5.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/39_png.rf.afd118adfb79d521dc45867598f42d5f.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/12_png.rf.8db3f00146d8dbc86b8a78494c8ec169.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/2_png.rf.7b7e9adcee0f163cb6dc97b1d67c6ce7.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/32_png.rf.4bfd245ce9ad55a2d4a54496f6ac2e61.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/59_png.rf.f2619b44ec94dfa4937322101dcb898c.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/Screenshot-2023-12-03-at-09-04-05_png.rf.407753a6c9efa52a51b31f959717d235.jpg,labeled,((A xor B) xor (C xor D)),
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-43-32-PM-12-54-24-PM_png.rf.a4ca6929d672406ced2c07af1ed63f64.jpg,labeled,(A or B),
+Logic-Gates-Detection-12/train/Screenshot-2023-12-03-at-09-06-56_png.rf.227396bc8a1d6bbee281506c03d4bb41.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/71_png.rf.6fc3e6d0a0d144c0b4b652f014708dc0.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-45-18-PM-12-54-24-PM_png.rf.f55818deaa4abc94526b009ae2831358.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-44-38-PM-12-54-25-PM_png.rf.a7ab0ba3c264a06fac809db8fe583335.jpg,labeled,(A or B),
+Logic-Gates-Detection-12/train/Screenshot-2023-12-03-at-09-36-57_png.rf.ef4d64e19c97c912b050858768abdc01.jpg,labeled,(A xnor B),
+Logic-Gates-Detection-12/train/WhatsApp-Image-2023-09-04-at-07-18-08_jpeg.rf.0beca76ead2f8a660fc55c567f426180.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/55_png.rf.00477818f0a0a2cf0da976fc87620548.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/16_png.rf.9c374fc8a513aa2efdfadecf291df1aa.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/56_png.rf.d04587cc57fbd78f78d36356e24ba3a9.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/Screenshot-2023-12-03-at-09-36-39_png.rf.c1df0ff43ee5922595753cddd42987cd.jpg,labeled,((A xor B) xor (C xor D)),
+Logic-Gates-Detection-12/train/Screenshot-2023-12-04-at-21-15-13_png.rf.22561eda2a99034d4899dc1635d4d5bc.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-50-53-PM-12-54-25-PM_png.rf.f7f8757f8ed68daf62643962f11baaa6.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/Screenshot-2023-12-03-at-09-54-29_png.rf.5116326b565509411a73e239000782e2.jpg,labeled,(A xor B),
+Logic-Gates-Detection-12/train/WhatsApp-Image-2023-12-01-at-20-52-08_jpeg.rf.6221837ee637dfdd7dbd8f4ff8c21fec.jpg,labeled,((A xnor B) xnor (C xnor D)),
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-49-17-PM-12-54-25-PM_png.rf.c3cc5ac286963bc116450f965ac23567.jpg,labeled,(A or B),
+Logic-Gates-Detection-12/train/Screenshot-2023-12-04-at-21-16-42_png.rf.d48d68f83ce54ff3f4c42c434470ccea.jpg,labeled,(A xnor B),
+Logic-Gates-Detection-12/train/Screenshot-2023-12-03-at-09-06-23_png.rf.759e8c9a15bb04192ebcad79f993cdd0.jpg,labeled,(A xor B),
+Logic-Gates-Detection-12/train/49_png.rf.a1e487fab7ee6346018d50ea777d26ec.jpg,rejected,,bad_quality
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-46-03-PM-12-54-24-PM_png.rf.d9aae50b83f25e64b269fa9c642b47d6.jpg,labeled,(A or B),
+Logic-Gates-Detection-12/train/WhatsApp-Image-2023-12-01-at-18-03-07_jpeg.rf.5d4f63db5b7a501f2301fdef78341c5d.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/WhatsApp-Image-2023-09-04-at-07-17-42_jpeg.rf.359e0b930d1b3b1fefea86e719289fd5.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/77_png.rf.85ec47a41d281f365b55cfadecf5f54d.jpg,labeled,((A xor B) xor C),
+Logic-Gates-Detection-12/train/76_png.rf.7cbff6dfc64baf521ec7a8af086f4077.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/41_png.rf.ac9368d1c4ba84e1b20046c61b8644c5.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/139_png.rf.fee6c5b09a6e254b7365148b2edf013f.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/Screenshot-2023-12-04-at-21-15-32_png.rf.0afbee6cb87ed7f5098f1f886c4d3fcc.jpg,labeled,((A xnor B) nor (C xnor D),
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-44-30-PM-12-54-24-PM_png.rf.d2bb7621c5f67ed07e5af6786b69cbef.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/17_png.rf.6150d8b9a82954f163944ba84650490d.jpg,rejected,,not_single_output
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-43-47-PM-12-54-24-PM_png.rf.96e68a4ef3e39e5be523834eb6401c80.jpg,labeled,(A nor B),
+Logic-Gates-Detection-12/train/Screenshot-2023-08-16-at-12-48-45-PM-12-54-24-PM_png.rf.9774517ba18f09126a267de150667070.jpg,labeled,(A xnor B),
+Logic-Gates-Detection-12/train/Screenshot-2023-12-04-at-21-16-55_png.rf.85a7541aa668f0c8bfc869815b710b04.jpg,labeled,((A xor B) xor (C xor D)),
+Logic-Gates-Detection-12/train/10_png.rf.4d6ea10d37d65a81e6c806b1587dc53a.jpg,rejected,,missing_labels
+Logic-Gates-Detection-12/train/Screenshot-2023-12-03-at-09-36-32_png.rf.9f4884738b8c8aac2149aa5b7d50768c.jpg,labeled,((A xnor B) xnor (C xnor D)),
