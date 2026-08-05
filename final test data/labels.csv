@@ -1,0 +1,301 @@
+image_path,expression,source,n_inputs
+data/new_test_data/images/00000.png,((A xnor (B nand D)) and C),final_test_data,4
+data/new_test_data/images/00001.png,(((not B) nor (not C)) xor D),final_test_data,3
+data/new_test_data/images/00002.png,(B or (A or E)),final_test_data,3
+data/new_test_data/images/00003.png,(((not (D nand E)) nor A) xnor (not (B xnor C))),final_test_data,5
+data/new_test_data/images/00004.png,((A nor E) xnor (B xor C)),final_test_data,4
+data/new_test_data/images/00005.png,((not ((A or C) nand (not B))) nor (not E)),final_test_data,4
+data/new_test_data/images/00006.png,((not E) xnor (D xnor C)),final_test_data,3
+data/new_test_data/images/00007.png,((B nand (not C)) xnor (not E)),final_test_data,3
+data/new_test_data/images/00008.png,((D and C) nand (not B)),final_test_data,3
+data/new_test_data/images/00009.png,(((not C) nor B) and D),final_test_data,3
+data/new_test_data/images/00010.png,((D xnor A) xnor (E xor B)),final_test_data,4
+data/new_test_data/images/00011.png,(A nand (not E)),final_test_data,2
+data/new_test_data/images/00012.png,((E or (A or B)) and C),final_test_data,4
+data/new_test_data/images/00013.png,((B nand D) xor ((not A) xnor (C xnor E))),final_test_data,5
+data/new_test_data/images/00014.png,(((not E) nor B) and (A nand D)),final_test_data,4
+data/new_test_data/images/00015.png,((not ((not C) xor D)) xnor A),final_test_data,3
+data/new_test_data/images/00016.png,((C or A) nor E),final_test_data,3
+data/new_test_data/images/00017.png,(((A and (not B)) nand (C nand E)) or (not D)),final_test_data,5
+data/new_test_data/images/00018.png,(not ((not (((D xnor C) or B) nand A)) nand E)),final_test_data,5
+data/new_test_data/images/00019.png,(B and (C xnor D)),final_test_data,3
+data/new_test_data/images/00020.png,((not (E and (not (A xor D)))) and (C nand (not B))),final_test_data,5
+data/new_test_data/images/00021.png,(((not (B nand (not E))) xor A) or D),final_test_data,4
+data/new_test_data/images/00022.png,(C or (not ((B xnor A) xor (not D)))),final_test_data,4
+data/new_test_data/images/00023.png,(((B and (not C)) and D) or E),final_test_data,4
+data/new_test_data/images/00024.png,((C and ((not D) nor (not (B nor E)))) xnor A),final_test_data,5
+data/new_test_data/images/00025.png,(B or (E xnor (not C))),final_test_data,3
+data/new_test_data/images/00026.png,((A xor (D xnor E)) nor ((not B) and C)),final_test_data,5
+data/new_test_data/images/00027.png,(D nand (not ((not (((not E) or A) xnor (not C))) and (not B)))),final_test_data,5
+data/new_test_data/images/00028.png,((not (C xnor (D nand (A or E)))) nor (not B)),final_test_data,5
+data/new_test_data/images/00029.png,(((not A) xnor (not E)) and ((not B) xnor C)),final_test_data,4
+data/new_test_data/images/00030.png,((C or (((not A) nor B) or D)) and E),final_test_data,5
+data/new_test_data/images/00031.png,(not ((not D) xor (E xnor C))),final_test_data,3
+data/new_test_data/images/00032.png,(not (D nand (C xor E))),final_test_data,3
+data/new_test_data/images/00033.png,(B nand (not ((not (D or C)) or E))),final_test_data,4
+data/new_test_data/images/00034.png,(not ((D and (A nor E)) xnor B)),final_test_data,4
+data/new_test_data/images/00035.png,((not D) nand ((((not E) and C) xor B) nand A)),final_test_data,5
+data/new_test_data/images/00036.png,((C nand A) and (B or E)),final_test_data,4
+data/new_test_data/images/00037.png,((not A) nor B),final_test_data,2
+data/new_test_data/images/00038.png,((not (D or (A nand C))) xor B),final_test_data,4
+data/new_test_data/images/00039.png,(((not C) or A) nand (not (D nand (not B)))),final_test_data,4
+data/new_test_data/images/00040.png,((not E) and (B nor D)),final_test_data,3
+data/new_test_data/images/00041.png,((E and (not A)) xor (not (B or (not D)))),final_test_data,4
+data/new_test_data/images/00042.png,(not (E nor (not ((not (B xor (not A))) xnor (not (D and C)))))),final_test_data,5
+data/new_test_data/images/00043.png,((not E) xor ((not A) or (not C))),final_test_data,3
+data/new_test_data/images/00044.png,(not ((B xnor A) nor D)),final_test_data,3
+data/new_test_data/images/00045.png,(not ((not ((not C) and E)) xnor (not ((D and B) nand A)))),final_test_data,5
+data/new_test_data/images/00046.png,(not (((not (A xor (not E))) xor B) nor D)),final_test_data,4
+data/new_test_data/images/00047.png,((not A) nand (not (((D and (not C)) and (not E)) or B))),final_test_data,5
+data/new_test_data/images/00048.png,((not (E and C)) xnor (not A)),final_test_data,3
+data/new_test_data/images/00049.png,((A or B) xnor (not C)),final_test_data,3
+data/new_test_data/images/00050.png,((not ((not (A nand (not D))) nand C)) nand (not (E nor (not B)))),final_test_data,5
+data/new_test_data/images/00051.png,(((not E) nor (A and D)) nor (C xor B)),final_test_data,5
+data/new_test_data/images/00052.png,(A and (not B)),final_test_data,2
+data/new_test_data/images/00053.png,((not A) xor E),final_test_data,2
+data/new_test_data/images/00054.png,(not (B and (A nand E))),final_test_data,3
+data/new_test_data/images/00055.png,((A or (not B)) or D),final_test_data,3
+data/new_test_data/images/00056.png,(((not D) xnor (not E)) or (not ((not C) or B))),final_test_data,4
+data/new_test_data/images/00057.png,(A nor (B and (not (C xor (not D))))),final_test_data,4
+data/new_test_data/images/00058.png,((not D) and (not ((C nor E) or A))),final_test_data,4
+data/new_test_data/images/00059.png,(B xnor (not (A or (not C)))),final_test_data,3
+data/new_test_data/images/00060.png,(not ((not ((not (D xor A)) or C)) nand (not ((not B) or E)))),final_test_data,5
+data/new_test_data/images/00061.png,((not C) nand D),final_test_data,2
+data/new_test_data/images/00062.png,(((not B) or ((not D) nand (not E))) and C),final_test_data,4
+data/new_test_data/images/00063.png,(C xnor (not ((not D) nor A))),final_test_data,3
+data/new_test_data/images/00064.png,(A or (not ((E xor B) and D))),final_test_data,4
+data/new_test_data/images/00065.png,(((not (A or B)) xor D) nand C),final_test_data,4
+data/new_test_data/images/00066.png,(not (B xnor (C or A))),final_test_data,3
+data/new_test_data/images/00067.png,(A xnor D),final_test_data,2
+data/new_test_data/images/00068.png,((not (C and ((not B) nand A))) nand (not D)),final_test_data,4
+data/new_test_data/images/00069.png,((not D) or E),final_test_data,2
+data/new_test_data/images/00070.png,((not D) xor (B nor C)),final_test_data,3
+data/new_test_data/images/00071.png,((not ((not B) nor D)) nand C),final_test_data,3
+data/new_test_data/images/00072.png,(not (C xnor (not ((not A) xnor E)))),final_test_data,3
+data/new_test_data/images/00073.png,((E or A) or (D xor C)),final_test_data,4
+data/new_test_data/images/00074.png,((A or (not ((not C) xnor B))) or E),final_test_data,4
+data/new_test_data/images/00075.png,(not ((((not D) or A) nor C) nand E)),final_test_data,4
+data/new_test_data/images/00076.png,(not ((not D) xor (not (B and A)))),final_test_data,3
+data/new_test_data/images/00077.png,((((not A) or E) and (D nand B)) xor C),final_test_data,5
+data/new_test_data/images/00078.png,(C xor (B nor (not D))),final_test_data,3
+data/new_test_data/images/00079.png,((A xor B) nand ((not C) xor D)),final_test_data,4
+data/new_test_data/images/00080.png,((E xnor (D nor (B nand (not C)))) or A),final_test_data,5
+data/new_test_data/images/00081.png,((not B) nand (not A)),final_test_data,2
+data/new_test_data/images/00082.png,((not (C nand (not A))) xnor (not B)),final_test_data,3
+data/new_test_data/images/00083.png,((B xor C) or (not (D xor (E and A)))),final_test_data,5
+data/new_test_data/images/00084.png,((not A) and (not C)),final_test_data,2
+data/new_test_data/images/00085.png,((C and D) xor (not (B nand (not E)))),final_test_data,4
+data/new_test_data/images/00086.png,(C nor (not ((not ((not A) xnor E)) xor (not B)))),final_test_data,4
+data/new_test_data/images/00087.png,((E nand C) nand D),final_test_data,3
+data/new_test_data/images/00088.png,((A nor (not C)) or (not (B or E))),final_test_data,4
+data/new_test_data/images/00089.png,(not (A or D)),final_test_data,2
+data/new_test_data/images/00090.png,((B xor C) xnor (not ((not E) xor D))),final_test_data,4
+data/new_test_data/images/00091.png,(C or (not (((not A) or E) xnor ((not B) xnor D)))),final_test_data,5
+data/new_test_data/images/00092.png,((not E) xor (not D)),final_test_data,2
+data/new_test_data/images/00093.png,(((not D) and E) nand (B xnor C)),final_test_data,4
+data/new_test_data/images/00094.png,((not A) and ((not C) nor B)),final_test_data,3
+data/new_test_data/images/00095.png,((E nand B) nand (not (C xor (D xor A)))),final_test_data,5
+data/new_test_data/images/00096.png,((not C) xnor D),final_test_data,2
+data/new_test_data/images/00097.png,((not (E and D)) or (not ((not B) xor C))),final_test_data,4
+data/new_test_data/images/00098.png,(not (C or (D or B))),final_test_data,3
+data/new_test_data/images/00099.png,(not ((E xor D) xnor (not (B xor A)))),final_test_data,4
+data/new_test_data/images/00100.png,(B and ((not E) and D)),final_test_data,3
+data/new_test_data/images/00101.png,(not (A xnor (not C))),final_test_data,2
+data/new_test_data/images/00102.png,(D or (not C)),final_test_data,2
+data/new_test_data/images/00103.png,((not (A xnor B)) nor E),final_test_data,3
+data/new_test_data/images/00104.png,((A nor (D xor C)) xor B),final_test_data,4
+data/new_test_data/images/00105.png,((B and A) or E),final_test_data,3
+data/new_test_data/images/00106.png,((A or (not E)) nor (not (C and (not B)))),final_test_data,4
+data/new_test_data/images/00107.png,((C and E) or (A nand (not B))),final_test_data,4
+data/new_test_data/images/00108.png,((B xor (not E)) or ((not C) nor D)),final_test_data,4
+data/new_test_data/images/00109.png,((not E) nand D),final_test_data,2
+data/new_test_data/images/00110.png,((not A) xor (not ((not C) or (not (D xnor B))))),final_test_data,4
+data/new_test_data/images/00111.png,(C nand ((E xnor (not B)) and A)),final_test_data,4
+data/new_test_data/images/00112.png,(((not D) or E) xor (C nor (not (B and A)))),final_test_data,5
+data/new_test_data/images/00113.png,(D xnor C),final_test_data,2
+data/new_test_data/images/00114.png,((not (B xnor (not (A and (not D))))) or E),final_test_data,4
+data/new_test_data/images/00115.png,(A xor (((not E) xnor (not (C and B))) xnor D)),final_test_data,5
+data/new_test_data/images/00116.png,(A xor (not (C nor (not (B and D))))),final_test_data,4
+data/new_test_data/images/00117.png,((not (C nand (not A))) or (not E)),final_test_data,3
+data/new_test_data/images/00118.png,((C nand B) xor (not (A xnor (not D)))),final_test_data,4
+data/new_test_data/images/00119.png,((not (((not B) xor E) nor (not A))) nor (not C)),final_test_data,4
+data/new_test_data/images/00120.png,(not (D or ((not (C xnor E)) and (not (A xor (not B)))))),final_test_data,5
+data/new_test_data/images/00121.png,(not (E nor B)),final_test_data,2
+data/new_test_data/images/00122.png,((not E) xor C),final_test_data,2
+data/new_test_data/images/00123.png,((not A) or C),final_test_data,2
+data/new_test_data/images/00124.png,((B nand E) xor D),final_test_data,3
+data/new_test_data/images/00125.png,((((A and E) and C) nand D) xnor B),final_test_data,5
+data/new_test_data/images/00126.png,((not ((not E) or C)) nand (A or ((not B) xor D))),final_test_data,5
+data/new_test_data/images/00127.png,(((not B) xnor D) and C),final_test_data,3
+data/new_test_data/images/00128.png,((E xnor C) and (D xnor A)),final_test_data,4
+data/new_test_data/images/00129.png,((not C) xnor (not (D and A))),final_test_data,3
+data/new_test_data/images/00130.png,(not (B xor A)),final_test_data,2
+data/new_test_data/images/00131.png,(A nor (D nor C)),final_test_data,3
+data/new_test_data/images/00132.png,((((not E) xnor B) or ((not A) and D)) and C),final_test_data,5
+data/new_test_data/images/00133.png,(((not (D nor (not B))) nand (not E)) nor A),final_test_data,4
+data/new_test_data/images/00134.png,(not (B xor D)),final_test_data,2
+data/new_test_data/images/00135.png,(D nand (not C)),final_test_data,2
+data/new_test_data/images/00136.png,((C xnor (not B)) or A),final_test_data,3
+data/new_test_data/images/00137.png,((A nor B) xor D),final_test_data,3
+data/new_test_data/images/00138.png,(D or (C xor (B nor (not E)))),final_test_data,4
+data/new_test_data/images/00139.png,((not (E nor (C xor B))) nand (A nor D)),final_test_data,5
+data/new_test_data/images/00140.png,((not ((not ((not E) xor (not A))) nor D)) and ((not B) and (not C))),final_test_data,5
+data/new_test_data/images/00141.png,(not (B nand C)),final_test_data,2
+data/new_test_data/images/00142.png,(((not D) or C) or (not (B xor A))),final_test_data,4
+data/new_test_data/images/00143.png,(((not A) xnor B) and ((C xor D) nor E)),final_test_data,5
+data/new_test_data/images/00144.png,((not ((E or C) nor (A nand B))) nand D),final_test_data,5
+data/new_test_data/images/00145.png,(not ((not ((not D) xnor A)) xor (B or C))),final_test_data,4
+data/new_test_data/images/00146.png,(((E or B) nand (not C)) and D),final_test_data,4
+data/new_test_data/images/00147.png,((not (((not D) xnor E) nor C)) xor (A or B)),final_test_data,5
+data/new_test_data/images/00148.png,((not (E and B)) xor (A or (not D))),final_test_data,4
+data/new_test_data/images/00149.png,(not ((not B) and (not (A and C)))),final_test_data,3
+data/new_test_data/images/00150.png,((A xnor C) nand D),final_test_data,3
+data/new_test_data/images/00151.png,((B and A) xor (C and (not E))),final_test_data,4
+data/new_test_data/images/00152.png,(C nor ((not A) xnor D)),final_test_data,3
+data/new_test_data/images/00153.png,(not (B xor E)),final_test_data,2
+data/new_test_data/images/00154.png,((not (D and A)) and (not C)),final_test_data,3
+data/new_test_data/images/00155.png,((not (D nand (not C))) nand (E xnor (not (B or A)))),final_test_data,5
+data/new_test_data/images/00156.png,(D nand (A nor (not (B nor E)))),final_test_data,4
+data/new_test_data/images/00157.png,(E or (B xnor A)),final_test_data,3
+data/new_test_data/images/00158.png,((not (B nor D)) xor (not (E or (not (C nor A))))),final_test_data,5
+data/new_test_data/images/00159.png,(A nand ((E nand C) nor D)),final_test_data,4
+data/new_test_data/images/00160.png,(C nor (((not E) or D) xor A)),final_test_data,4
+data/new_test_data/images/00161.png,((not A) or (not B)),final_test_data,2
+data/new_test_data/images/00162.png,(C nor (not (D xor (E xor A)))),final_test_data,4
+data/new_test_data/images/00163.png,((not A) nand (not ((not E) nor (B or D)))),final_test_data,4
+data/new_test_data/images/00164.png,(C nor (not ((B and E) and (not A)))),final_test_data,4
+data/new_test_data/images/00165.png,((not (C or E)) nand (A nor D)),final_test_data,4
+data/new_test_data/images/00166.png,((not B) and ((E or D) and (not C))),final_test_data,4
+data/new_test_data/images/00167.png,((not (((D nand C) xnor E) nand B)) and (not A)),final_test_data,5
+data/new_test_data/images/00168.png,((not ((not B) xor (not (D or (not (C nor E)))))) xor A),final_test_data,5
+data/new_test_data/images/00169.png,(not ((B xor D) or C)),final_test_data,3
+data/new_test_data/images/00170.png,(((not (C and B)) and (not (E nor D))) and A),final_test_data,5
+data/new_test_data/images/00171.png,(A nand (not ((not D) nor E))),final_test_data,3
+data/new_test_data/images/00172.png,((((not E) or B) xnor D) nand A),final_test_data,4
+data/new_test_data/images/00173.png,(((not E) and (not (C and D))) and (B nor A)),final_test_data,5
+data/new_test_data/images/00174.png,(C xnor (not (E and (D xor (not A))))),final_test_data,4
+data/new_test_data/images/00175.png,(A or (not (B and C))),final_test_data,3
+data/new_test_data/images/00176.png,(B or (E and (A and (not C)))),final_test_data,4
+data/new_test_data/images/00177.png,((not B) xor C),final_test_data,2
+data/new_test_data/images/00178.png,(not (D nor (not ((not C) nand B)))),final_test_data,3
+data/new_test_data/images/00179.png,(((not B) and D) and (not (C nand A))),final_test_data,4
+data/new_test_data/images/00180.png,(D and ((B and C) or E)),final_test_data,4
+data/new_test_data/images/00181.png,((not (B xnor A)) xor (not C)),final_test_data,3
+data/new_test_data/images/00182.png,((not (B xor (E nor D))) xnor C),final_test_data,4
+data/new_test_data/images/00183.png,((not (C and D)) and (not E)),final_test_data,3
+data/new_test_data/images/00184.png,(not (((A xnor B) xnor C) nor D)),final_test_data,4
+data/new_test_data/images/00185.png,((not D) nor (not ((C nand B) xnor ((not E) and A)))),final_test_data,5
+data/new_test_data/images/00186.png,(B xnor (C nand (not A))),final_test_data,3
+data/new_test_data/images/00187.png,(not ((A xnor E) xor (((not B) xor C) xnor D))),final_test_data,5
+data/new_test_data/images/00188.png,((B nand (not E)) xnor ((C xnor (not D)) nand A)),final_test_data,5
+data/new_test_data/images/00189.png,(((not E) and D) and (((not A) xor C) nand B)),final_test_data,5
+data/new_test_data/images/00190.png,(not (E and A)),final_test_data,2
+data/new_test_data/images/00191.png,((B nor (A or E)) or (not D)),final_test_data,4
+data/new_test_data/images/00192.png,((not (E or C)) xor (not ((D nor (not A)) nand B))),final_test_data,5
+data/new_test_data/images/00193.png,((not (E xnor (not C))) and A),final_test_data,3
+data/new_test_data/images/00194.png,((not (E xor B)) xor ((not A) nand D)),final_test_data,4
+data/new_test_data/images/00195.png,(not ((not ((not D) or (not (C xor (not A))))) nand E)),final_test_data,4
+data/new_test_data/images/00196.png,(E nor B),final_test_data,2
+data/new_test_data/images/00197.png,(C and (D nor ((not (E xnor A)) or B))),final_test_data,5
+data/new_test_data/images/00198.png,(A and ((not ((not E) or (not B))) and (not D))),final_test_data,4
+data/new_test_data/images/00199.png,(((not D) or (not (A xnor (not C)))) or (not B)),final_test_data,4
+data/new_test_data/images/00200.png,(D nand (A and (not ((not C) nor ((not B) xor E))))),final_test_data,5
+data/new_test_data/images/00201.png,((not (C xor (not D))) xnor (not ((not ((not B) xor A)) or E))),final_test_data,5
+data/new_test_data/images/00202.png,(not ((B nand (not A)) xor ((not E) and C))),final_test_data,4
+data/new_test_data/images/00203.png,(not ((not (D xnor (not C))) and (E and B))),final_test_data,4
+data/new_test_data/images/00204.png,((not E) nor (not ((not A) or B))),final_test_data,3
+data/new_test_data/images/00205.png,((not (E or B)) or (D and (C or A))),final_test_data,5
+data/new_test_data/images/00206.png,(not ((A xor B) or (C or (not D)))),final_test_data,4
+data/new_test_data/images/00207.png,(not ((not ((C xnor B) xor (D nor A))) xnor E)),final_test_data,5
+data/new_test_data/images/00208.png,((B xor A) xnor (not (C nor (not D)))),final_test_data,4
+data/new_test_data/images/00209.png,(B nor (E nor (A nor C))),final_test_data,4
+data/new_test_data/images/00210.png,((((not C) xnor (not B)) nand A) xnor (not D)),final_test_data,4
+data/new_test_data/images/00211.png,((not (((not B) or E) or C)) and (not A)),final_test_data,4
+data/new_test_data/images/00212.png,((A xnor ((E xnor (not D)) nand C)) or B),final_test_data,5
+data/new_test_data/images/00213.png,((((not B) nand C) xor A) xor (D nand E)),final_test_data,5
+data/new_test_data/images/00214.png,(not ((not ((not B) xnor A)) nand ((not (E xnor C)) nor D))),final_test_data,5
+data/new_test_data/images/00215.png,(A nor ((((not B) nor C) nand (not E)) nor (not D))),final_test_data,5
+data/new_test_data/images/00216.png,(A xor (not D)),final_test_data,2
+data/new_test_data/images/00217.png,((not A) xnor C),final_test_data,2
+data/new_test_data/images/00218.png,(((not (B xnor (D xor (not A)))) nand E) nor C),final_test_data,5
+data/new_test_data/images/00219.png,(C nand (B nor (D nand A))),final_test_data,4
+data/new_test_data/images/00220.png,(((not (C or E)) or B) nor (A nor D)),final_test_data,5
+data/new_test_data/images/00221.png,((not (E nor A)) or C),final_test_data,3
+data/new_test_data/images/00222.png,(((A xor (not E)) and (not B)) nor (C xor D)),final_test_data,5
+data/new_test_data/images/00223.png,(not (B xnor (not C))),final_test_data,2
+data/new_test_data/images/00224.png,(A and (not ((not E) nand (not (D nand C))))),final_test_data,4
+data/new_test_data/images/00225.png,((B xor ((not D) xnor (A xor C))) nor E),final_test_data,5
+data/new_test_data/images/00226.png,((not (A or B)) nor E),final_test_data,3
+data/new_test_data/images/00227.png,(C and (not B)),final_test_data,2
+data/new_test_data/images/00228.png,(not (((not A) nand (not D)) xor (not ((not E) nor (not C))))),final_test_data,4
+data/new_test_data/images/00229.png,(E xor D),final_test_data,2
+data/new_test_data/images/00230.png,(((not ((C xnor E) nand (not B))) nand D) nor A),final_test_data,5
+data/new_test_data/images/00231.png,(B or (not A)),final_test_data,2
+data/new_test_data/images/00232.png,((not (A xnor E)) and (C nand D)),final_test_data,4
+data/new_test_data/images/00233.png,((E xnor B) or ((not C) and D)),final_test_data,4
+data/new_test_data/images/00234.png,(not ((not D) or (not ((E nor (not B)) or (not (A xor C)))))),final_test_data,5
+data/new_test_data/images/00235.png,(((C nor A) and (not (E nand B))) nor D),final_test_data,5
+data/new_test_data/images/00236.png,((not E) and (A or C)),final_test_data,3
+data/new_test_data/images/00237.png,((C xnor B) xnor (not (D nand (not ((not E) nor A))))),final_test_data,5
+data/new_test_data/images/00238.png,((not E) xnor B),final_test_data,2
+data/new_test_data/images/00239.png,((A nor C) xnor (D xnor (not (E or B)))),final_test_data,5
+data/new_test_data/images/00240.png,((not (B nor (C xnor D))) and A),final_test_data,4
+data/new_test_data/images/00241.png,((C nand A) nand B),final_test_data,3
+data/new_test_data/images/00242.png,(C nand E),final_test_data,2
+data/new_test_data/images/00243.png,(((not (A nor (not C))) and (not D)) xor E),final_test_data,4
+data/new_test_data/images/00244.png,((not D) nor ((not B) xnor (not E))),final_test_data,3
+data/new_test_data/images/00245.png,((not (C nand A)) xnor (not ((not B) or E))),final_test_data,4
+data/new_test_data/images/00246.png,(E nand A),final_test_data,2
+data/new_test_data/images/00247.png,((not D) nand B),final_test_data,2
+data/new_test_data/images/00248.png,(D xnor (not ((not ((E or B) xnor C)) or A))),final_test_data,5
+data/new_test_data/images/00249.png,(B xnor (not A)),final_test_data,2
+data/new_test_data/images/00250.png,(B and ((not ((C nor D) nor E)) and (not A))),final_test_data,5
+data/new_test_data/images/00251.png,(((not (A nor E)) or (not (D and B))) nor C),final_test_data,5
+data/new_test_data/images/00252.png,((B xor A) nand (E nor (D nor C))),final_test_data,5
+data/new_test_data/images/00253.png,((not (A or E)) xor D),final_test_data,3
+data/new_test_data/images/00254.png,((not (E nand A)) xor ((C and B) xor (not D))),final_test_data,5
+data/new_test_data/images/00255.png,((B and ((not (E nand A)) nand C)) nor D),final_test_data,5
+data/new_test_data/images/00256.png,(((A nand E) xor (not D)) or B),final_test_data,4
+data/new_test_data/images/00257.png,((E nand (B xnor C)) or (not D)),final_test_data,4
+data/new_test_data/images/00258.png,(E xnor B),final_test_data,2
+data/new_test_data/images/00259.png,((A nand C) xor D),final_test_data,3
+data/new_test_data/images/00260.png,((E nor (not B)) nand (((not C) and D) and (not A))),final_test_data,5
+data/new_test_data/images/00261.png,(not ((not E) and (not (D or (B and (A nor (not C))))))),final_test_data,5
+data/new_test_data/images/00262.png,(A xor D),final_test_data,2
+data/new_test_data/images/00263.png,((B xor C) xnor D),final_test_data,3
+data/new_test_data/images/00264.png,((not B) nand (C or (not E))),final_test_data,3
+data/new_test_data/images/00265.png,((not ((not C) and (not (A nor B)))) nand D),final_test_data,4
+data/new_test_data/images/00266.png,((D xnor (not E)) nor (not (B or (not C)))),final_test_data,4
+data/new_test_data/images/00267.png,(C xor ((not A) or (not B))),final_test_data,3
+data/new_test_data/images/00268.png,((not C) xnor (not ((A nor D) nand (not B)))),final_test_data,4
+data/new_test_data/images/00269.png,((D and (B nand (not E))) xnor (C xnor A)),final_test_data,5
+data/new_test_data/images/00270.png,((not C) nor ((not E) nand D)),final_test_data,3
+data/new_test_data/images/00271.png,((not (((not D) or E) and C)) xor A),final_test_data,4
+data/new_test_data/images/00272.png,(not ((C and B) xnor (not (D nand E)))),final_test_data,4
+data/new_test_data/images/00273.png,((not ((C xnor B) xor A)) nor E),final_test_data,4
+data/new_test_data/images/00274.png,(((not A) nor D) xnor B),final_test_data,3
+data/new_test_data/images/00275.png,((B and ((D xor E) and C)) xor A),final_test_data,5
+data/new_test_data/images/00276.png,(((E xnor (D xnor B)) nand A) and C),final_test_data,5
+data/new_test_data/images/00277.png,(B xnor ((A or E) nor (not C))),final_test_data,4
+data/new_test_data/images/00278.png,(not ((not ((C nand (not E)) or (not D))) and (not (B xor A)))),final_test_data,5
+data/new_test_data/images/00279.png,(((not C) nand A) xnor D),final_test_data,3
+data/new_test_data/images/00280.png,((not D) nor (E nor (B and (A and C)))),final_test_data,5
+data/new_test_data/images/00281.png,(D xnor (not B)),final_test_data,2
+data/new_test_data/images/00282.png,((not E) xnor A),final_test_data,2
+data/new_test_data/images/00283.png,(A xnor (not (E nand C))),final_test_data,3
+data/new_test_data/images/00284.png,((A nand D) xnor ((not B) nor (E nor (not C)))),final_test_data,5
+data/new_test_data/images/00285.png,((not (D nand (B nor C))) nor (not E)),final_test_data,4
+data/new_test_data/images/00286.png,(((not E) and (not (A nand (not D)))) or C),final_test_data,4
+data/new_test_data/images/00287.png,((B nor (A and (not C))) xnor D),final_test_data,4
+data/new_test_data/images/00288.png,((not ((A or (not D)) and C)) xnor E),final_test_data,4
+data/new_test_data/images/00289.png,((B nand E) xnor (not ((not (C and (not A))) and D))),final_test_data,5
+data/new_test_data/images/00290.png,((E xor D) nor B),final_test_data,3
+data/new_test_data/images/00291.png,((not D) and (E and A)),final_test_data,3
+data/new_test_data/images/00292.png,(not (D xnor (not (C nand (not A))))),final_test_data,3
+data/new_test_data/images/00293.png,((D xnor B) xnor A),final_test_data,3
+data/new_test_data/images/00294.png,(A xnor (not (E nand (D or B)))),final_test_data,4
+data/new_test_data/images/00295.png,(E xor C),final_test_data,2
+data/new_test_data/images/00296.png,(A nor ((not (D nand B)) and E)),final_test_data,4
+data/new_test_data/images/00297.png,((not ((not E) xnor (not A))) or (not B)),final_test_data,3
+data/new_test_data/images/00298.png,(((not (B xnor E)) and D) xor (not C)),final_test_data,4
+data/new_test_data/images/00299.png,(C or (not D)),final_test_data,2
